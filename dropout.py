@@ -1,7 +1,6 @@
-import pandas as pd
-contacts=pd.read_csv("contacts.csv")
-for index, row in contacts.iterrows():
-    name=row['name']
-    phone=row['phone']
-    message = f"Happy New Year {name}!"
-    print(message)
+from selenium import webdriver
+driver=webdriver.Chrome()
+driver.get("https://www.google.com")
+print("page title is", driver.title)
+driver.quit()
+

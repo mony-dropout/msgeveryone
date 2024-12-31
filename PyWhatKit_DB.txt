@@ -8,3 +8,33 @@ Time: 22:51
 Phone Number: +919810695367
 Message: First ever coded thing bruh, keep going
 --------------------
+Date: 31/12/2024
+Time: 23:2
+Phone Number: +919810695367
+Message: hi mony!
+--------------------
+Date: 31/12/2024
+Time: 23:5
+Phone Number: +919810695367
+Message: hi mony!
+--------------------
+Date: 31/12/2024
+Time: 23:8
+Phone Number: +919810695367
+Message: hi mony!
+--------------------
+Date: 31/12/2024
+Time: 23:27
+Phone Number: +919569035187
+Message: hi, kuku, just testing my script, :)
+--------------------
+Date: 31/12/2024
+Time: 23:27
+Phone Number: +917003554510
+Message: hi, sagnik, just testing my script, :)
+--------------------
+Date: 31/12/2024
+Time: 23:27
+Phone Number: +919810695367
+Message: hi, mony, just testing my script, :)
+--------------------
