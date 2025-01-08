@@ -1,39 +1,48 @@
-<html>
-  <head>
-    <title>Form Example</title>
-  </head>
-  <body>
-    <form action="submit_form.php" method="POST">
-      <label for="username">Username:</label>
-      <input type="text" id="username" name="username" placeholder="Enter your username">
-      <br><br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadow DOM Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Shadow DOM Example</h1>
+    <p>This is outside the Shadow DOM.</p>
 
-      <label for="password">Password:</label>
-      <input type="password" id="password" name="password" placeholder="Enter your password">
-      <br><br>
+    <!-- Shadow Host -->
+    <div id="shadow-host"></div>
 
-      <label for="email">Email:</label>
-      <input type="email" id="email" name="email" placeholder="Enter your email">
-      <br><br>
+    <script>
+        // Attaching Shadow DOM to the host
+        const shadowHost = document.querySelector("#shadow-host");
+        const shadowRoot = shadowHost.attachShadow({ mode: "open" });
 
-      <label for="bio">Bio:</label>
-      <textarea id="bio" name="bio" rows="4" cols="50" placeholder="Tell us about yourself"></textarea>
-      <br><br>
-
-      <label for="gender">Gender:</label>
-      <select id="gender" name="gender">
-        <option value="male">Male</option>
-        <option value="female">Female</option>
-        <option value="other">Other</option>
-      </select>
-      <br><br>
-
-      <label>
-        <input type="checkbox" name="subscribe" value="newsletter"> Subscribe to newsletter
-      </label>
-      <br><br>
-
-      <button type="submit">Submit</button>
-    </form>
-  </body>
+        // Adding content to the Shadow DOM
+        shadowRoot.innerHTML = `
+            <style>
+                p {
+                    color: red;
+                    font-size: 16px;
+                }
+                button {
+                    background-color: green;
+                    color: white;
+                    border: none;
+                    padding: 10px 15px;
+                    cursor: pointer;
+                }
+            </style>
+            <p>This is inside the Shadow DOM.</p>
+            <button id="shadow-button">Click Me!</button>
+        `;
+    </script>
+</body>
 </html>
