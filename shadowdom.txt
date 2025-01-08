@@ -1,0 +1,9 @@
+yeah i guess i was unnecasarily intimidated by shadow dom lol,
+ even if it is maybe complicated to actually write the website 
+ code, in selenium, its not that tough, we just go to the element
+  in insopect element that we wanna interact w/ -> we see if its in
+   shadow dom by seeing if they have writen #shadow-root open somewhere->
+    do sh=driver.find_element(by.id or wtv, "name of div which contains shadow dom")-> 
+    do sr=driver.execute_script("return arguments[0].shadowroot",sh)
+     (which im guessing will just return all elements inside the shadow dom ->
+      then we just search elements inside it by x=sr.find_element(wtv method suits you) :)
