@@ -1,0 +1,49 @@
+ok so iframe is something that is used to link to another page in your page...
+like youtube video embeds, pop up logins etc... so the way to interact w it using selenium is a bit differenet, first you gotta
+tell selenium to switch to iframe (by number (life first/second third iframe etc is 0,1,2) or id or smthn)
+the way to wrie i frame in html is very easy, just like a href,
+<html>
+<head>
+<title>working</title>
+</head>
+<body>
+<h>having fun</h>
+<br><br>
+<iframe id="first" src="https://example.com" width="500" height="420"></iframe> //maybe google youtube wont load this easy lmao
+<br><br>
+<p> how does this feel</p>
+</body>
+</html>
+how to do selenium here is
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+import time
+driver=webdriver.Chrome()
+driver.get("file:///Users/monyatwu/Documents/first%20project/testhtml.html")
+time.sleep(5)
+ifr=driver.find_element(By.ID,"myframe")
+driver.switch_to(ifr)
+//do whatever the fuck you wanna do here
+//like x=driver.find_elenent() or whatever 
+and then finally do 
+driver.switch_to.default_content()
+
+
+XPATH!!!
+this is really cool, its a way to find elements, the syntax is basically
+//tagname[@attribute='value']
+tagname=div,button,p,h1,input etc.
+attribute=class,id, text
+examples:
+//input[@id='username'] (find inputs w id username)
+//button[text()='login'] (find button w text login)
+//div[@class='container'] (finds div element w class =container)
+//*[@id='search'] (finds any tag w id=search (* is like wildcard))
+//h1 (finds all h1 elements) !!! so here will i need to do something like allhvector=//h1 and get a vector kinda thing or what?
+you can also do contains and starts with etc.
+like
+//div[contains(@class,'nav')] !!!what does contains nav mean? like wut
+//a[starts-with(@href,'https://')]
+
+btw if the thing is inside shadow root, youll still have to open it first <3

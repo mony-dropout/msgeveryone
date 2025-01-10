@@ -1,48 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shadow DOM Example</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: blue;
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome to Shadow DOM Example</h1>
-    <p>This is outside the Shadow DOM.</p>
-
-    <!-- Shadow Host -->
-    <div id="shadow-host"></div>
-
-    <script>
-        // Attaching Shadow DOM to the host
-        const shadowHost = document.querySelector("#shadow-host");
-        const shadowRoot = shadowHost.attachShadow({ mode: "open" });
-
-        // Adding content to the Shadow DOM
-        shadowRoot.innerHTML = `
-            <style>
-                p {
-                    color: red;
-                    font-size: 16px;
-                }
-                button {
-                    background-color: green;
-                    color: white;
-                    border: none;
-                    padding: 10px 15px;
-                    cursor: pointer;
-                }
-            </style>
-            <p>This is inside the Shadow DOM.</p>
-            <button id="shadow-button">Click Me!</button>
-        `;
-    </script>
-</body>
+<html>
+  <head>
+    <title>Iframes Example</title>
+  </head>
+  <body>
+    <h1>Main Page</h1>
+    <iframe src="https://www.example.com" width="500" height="300" id="myFrame"></iframe>
+    <p>Some text outside the iframe.</p>
+  </body>
 </html>

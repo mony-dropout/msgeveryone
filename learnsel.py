@@ -3,32 +3,26 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-# Step 1: Initialize WebDriver
+# Step 1: Open Chrome and go to the website
 driver = webdriver.Chrome()
+driver.get("https://google.com")
+time.sleep(3)  # Wait for the page to load
 
-try:
-    # Step 2: Open the HTML file
-    driver.get("file:///Users/monyatwu/Documents/first%20project/testhtml.html")
-    time.sleep(2)  # Wait for the page to load
+# Step 2: Locate the shadow host element (parent of #shadow-root)
+shadow_host = driver.find_element(By.ID, "searchbox")
 
-    # Step 3: Locate the Shadow Host
-    shadow_host = driver.find_element(By.ID, "shadow-host")
+# Step 3: Use JavaScript to access the shadow root
+shadow_root = driver.execute_script("return arguments[0].shadowRoot", shadow_host)
 
-    # Step 4: Access the Shadow Root
-    shadow_root = driver.execute_script("return arguments[0].shadowRoot", shadow_host)
+# Step 4: Find the element inside the shadow root
+search_box = shadow_root.find_element(By.ID, "input")
 
-    # Step 5: Find elements inside the Shadow DOM
-    shadow_paragraph = shadow_root.find_element(By.CSS_SELECTOR, "p")
-    shadow_button = shadow_root.find_element(By.CSS_SELECTOR, "#shadow-button")
+# Step 5: Interact with the element (type and press Enter)
+search_box.send_keys("you can do anything")
+search_box.send_keys(Keys.ENTER)
+time.sleep(5)
 
-    # Step 6: Print text from Shadow DOM elements
-    print("Text inside shadow paragraph:", shadow_paragraph.text)
+# Step 6: Quit the browser
+driver.quit()
 
-    # Step 7: Interact with Shadow DOM elements
-    shadow_button.click()
-    print("Shadow button clicked!")
 
-    time.sleep(2)  # Observe the interaction
-finally:
-    # Step 8: Close the browser
-    driver.quit()
