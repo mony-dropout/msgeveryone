@@ -1,10 +1,38 @@
-<html>
-  <head>
-    <title>Iframes Example</title>
-  </head>
-  <body>
-    <h1>Main Page</h1>
-    <iframe src="https://www.example.com" width="500" height="300" id="myFrame"></iframe>
-    <p>Some text outside the iframe.</p>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Page</title>
+    <style>
+        .highlight { color: red; }
+        #unique-button { background-color: lightblue; }
+    </style>
+</head>
+<body>
+    <h1 id="main-title">Welcome to Selenium Practice</h1>
+    <p class="description">This is a paragraph with a <span class="highlight">highlighted word</span>.</p>
+    <div id="container">
+        <input type="text" id="username" placeholder="Enter your username">
+        <input type="password" id="password" placeholder="Enter your password">
+        <button id="unique-button">Click Me</button>
+        <a href="https://example.com" class="link">Visit Example</a>
+    </div>
+    <div>
+        <p>This is a second paragraph, not in the container.</p>
+        <button class="secondary-button">Secondary Button</button>
+    </div>
+    <!-- Shadow DOM Example -->
+    <div id="shadow-host"></div>
+    <script>
+        const shadowHost = document.querySelector("#shadow-host");
+        const shadowRoot = shadowHost.attachShadow({ mode: "open" });
+        shadowRoot.innerHTML = `
+            <style>
+                .shadow-text { color: blue; }
+            </style>
+            <p class="shadow-text">This is inside the shadow DOM!</p>
+        `;
+    </script>
+</body>
 </html>
