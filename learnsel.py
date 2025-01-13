@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 driver=webdriver.Chrome()
 driver.get("file:///Users/monyatwu/Documents/first%20project/testhtml.html")
-x=driver.find_element(By.ID,"main-title")
-print(x.title)
+x=driver.find_element(By.CSS_SELECTOR,"span.highlight")
+print(x.text)
 time.sleep(3)
 driver.quit()
