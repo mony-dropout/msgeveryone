@@ -1,2 +1,14 @@
-import pywhatkit as kit
-kit.sendwhatmsg("+919810695367","First ever coded thing bruh, keep going",22,52)
+import pandas as pd
+
+# Read the CSV file and specify the columns to use
+contacts = pd.read_csv("fcontacts.csv", usecols=["Name", "Phone"])
+
+# Drop rows where 'Phone Number' is blank or NaN
+contacts = contacts.dropna(subset=["Phone"])
+
+# Iterate through each contact
+for index, row in contacts.iterrows():
+    name = row['Name']
+    phone = row['Phone']
+    print(f"Name: {name}, Phone: {phone}")
+
