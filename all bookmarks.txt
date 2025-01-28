@@ -1,0 +1,2826 @@
+{
+   "checksum": "19fe7462156ea2da02471a7795055ad2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13247828675187558",
+            "date_last_used": "13318082582255890",
+            "guid": "ee8eb0bc-2e1b-4a43-8ea9-2f325da66925",
+            "id": "9",
+            "name": "Challenge and Thrill of Pre-College Mathematics ( PDFDrive ).pdf",
+            "type": "url",
+            "url": "file:///Users/ravinderbhandari/Downloads/Challenge%20and%20Thrill%20of%20Pre-College%20Mathematics%20(%20PDFDrive%20).pdf"
+         }, {
+            "date_added": "13247926421730213",
+            "date_last_used": "13378250508653298",
+            "guid": "74154c18-3646-4ea8-b095-eff0f2dff901",
+            "id": "10",
+            "name": "Number theory",
+            "type": "url",
+            "url": "https://www.pdfdrive.com/104-number-theory-problems-from-the-training-of-the-usa-imo-team-e162936488.html"
+         }, {
+            "date_added": "13247926432354589",
+            "date_last_used": "13378250511927186",
+            "guid": "8f6becf8-db65-4d9d-86fd-42f91b301ee5",
+            "id": "11",
+            "name": "Geometry",
+            "type": "url",
+            "url": "https://www.pdfdrive.com/challenging-problems-in-geometry-dover-posamentier-salkind-e4211748.html"
+         }, {
+            "date_added": "13247926447764395",
+            "date_last_used": "13378250513629909",
+            "guid": "e504ff88-0284-427b-b866-db6583dbd307",
+            "id": "12",
+            "name": "combinatorics",
+            "type": "url",
+            "url": "https://www.pdfdrive.com/102-combinatorial-problems-from-the-training-of-the-usa-imo-team-e157656507.html"
+         }, {
+            "date_added": "13247926455223299",
+            "date_last_used": "13320141490163171",
+            "guid": "59cdf62b-5fb9-4fd5-a91b-9db3bc765258",
+            "id": "13",
+            "name": "trigonometry",
+            "type": "url",
+            "url": "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvbmx5aWl0amVlfGd4OjZmMjI5Y2JhZjA2M2E3ZGY"
+         }, {
+            "date_added": "13248367958186864",
+            "date_last_used": "13319422798915879",
+            "guid": "f8e820f5-3243-4508-90c9-277a06b5b33f",
+            "id": "15",
+            "name": "prmo problems",
+            "type": "url",
+            "url": "file:///Users/ravinderbhandari/Downloads/prmo_problems.pdf"
+         }, {
+            "date_added": "13248367975214800",
+            "date_last_used": "13380490589678324",
+            "guid": "fdf50145-2ea2-4fc5-801f-3da3fbbc9c57",
+            "id": "17",
+            "name": "Mock PRMO ",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c260t556145f260h1844768_mock_prmo_2019"
+         }, {
+            "date_added": "13249228188439402",
+            "date_last_used": "13364559416958325",
+            "guid": "16bc8e8d-5f0b-4262-bccf-d64f4390c8e1",
+            "id": "19",
+            "name": "Mathematics Stack Exchange",
+            "type": "url",
+            "url": "https://math.stackexchange.com/"
+         }, {
+            "date_added": "13261345686933954",
+            "date_last_used": "0",
+            "guid": "8fed45b4-165d-4174-9b8c-65a87dac11cb",
+            "id": "44",
+            "name": "“IMO Training 2008: Graph Theory” by Adrian Tung.",
+            "type": "url",
+            "url": "http://euclid.ucc.ie/mathenr/IMOTraining/2008SummerCamp-AdrianTang-GraphTheory.pdf"
+         }, {
+            "date_added": "13251139906249033",
+            "date_last_used": "13311003122228692",
+            "guid": "94075615-698b-4019-ae01-dcdb8e63be2e",
+            "id": "21",
+            "name": "CollectionOfGeometryProblems.pdf",
+            "type": "url",
+            "url": "https://davidaltizio.web.illinois.edu/CollectionOfGeometryProblems.pdf"
+         }, {
+            "date_added": "13252857766427467",
+            "date_last_used": "13337200532592924",
+            "guid": "36d4587f-1573-44c4-8b5a-e11f793dcf08",
+            "id": "23",
+            "name": "Christmas Math Competition (CMC) Year 4",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u456149h2375558p19439999"
+         }, {
+            "date_added": "13255614898213060",
+            "date_last_used": "13346673416331892",
+            "guid": "17c5e0ca-b1f4-488d-97b7-4e866e195f81",
+            "id": "25",
+            "name": "A Comprehensive List of Physics Olympiad Resources",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u413726h2094716p19621835"
+         }, {
+            "date_added": "13255974334634032",
+            "date_last_used": "0",
+            "guid": "7394ae05-2ec7-4d1b-9143-6f00132748c9",
+            "id": "134",
+            "name": "Math Message Boards FAQ & Community Help | AoPS",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h2278765p17862953"
+         }, {
+            "date_added": "13256115939462026",
+            "date_last_used": "0",
+            "guid": "08098f1e-819d-4eca-8094-ea02b729dcdb",
+            "id": "27",
+            "name": "Thomas_Calculus.pdf",
+            "type": "url",
+            "url": "https://rodrigopacios.github.io/mrpacios/download/Thomas_Calculus.pdf"
+         }, {
+            "date_added": "13256765713868568",
+            "date_last_used": "13317241804768549",
+            "guid": "2558b527-2003-4398-8428-8a0dedfc4e46",
+            "id": "29",
+            "name": "EGMO Problem Discussions Links",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c618937h1605831_egmo_problem_discussions_links"
+         }, {
+            "date_added": "13256919351134252",
+            "date_last_used": "13378250530681529",
+            "guid": "58d2136a-4d1c-4a1d-9e4e-d13442e4b69a",
+            "id": "30",
+            "name": "FE-ebook.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1qCi-gIBLNP4fMzBtglvyzom0ja68WQlH/view"
+         }, {
+            "date_added": "13257707493272544",
+            "date_last_used": "13311003151894508",
+            "guid": "d0cf7dc6-69fa-4a91-814f-1e52953c7f74",
+            "id": "31",
+            "name": "Compilation_of_AIME_like_problems.pdf",
+            "type": "url",
+            "url": "file:///Users/ravinderbhandari/Downloads/Compilation_of_AIME_like_problems.pdf"
+         }, {
+            "date_added": "13258373275246470",
+            "date_last_used": "0",
+            "guid": "d4b38494-bf5a-4b5b-ac72-981c9ea1c62b",
+            "id": "32",
+            "name": "Graph Theory: In Mathematical Olympiad And Competitions - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Graph_Theory_In_Mathematical_Olympiad_An/OYJIDQAAQBAJ?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13258373297389689",
+            "date_last_used": "0",
+            "guid": "c930e448-620c-45e2-bbf1-feed69a195bf",
+            "id": "33",
+            "name": "discrete mathematics - Book recommendation : Olympiad Combinatorics book - Mathematics Stack Exchange",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/3781790/book-recommendation-olympiad-combinatorics-book"
+         }, {
+            "date_added": "13258577911242330",
+            "date_last_used": "13381550500803498",
+            "guid": "8ffd83dc-1d5e-4ddf-b3af-4bb102be732c",
+            "id": "34",
+            "name": "Invitationto discrete.pdf",
+            "type": "url",
+            "url": "https://www.math.bgu.ac.il/~lipyansk/discrete/Invitationto%20discrete.pdf"
+         }, {
+            "date_added": "13258577914043923",
+            "date_last_used": "13381550539979534",
+            "guid": "b04a8c3f-cca4-4112-a6e1-360d321943d2",
+            "id": "35",
+            "name": "dmbo",
+            "type": "url",
+            "url": "https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf"
+         }, {
+            "date_added": "13258653596360144",
+            "date_last_used": "13378250560249024",
+            "guid": "5f73fa9f-e608-449b-bef4-4983c438cfd5",
+            "id": "37",
+            "name": "_Muricaaaaaaa.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/12mQPwl0UFaHnYDnwCBWPybYGcAUeQl99/view"
+         }, {
+            "date_added": "13259521028163337",
+            "date_last_used": "13321281936676083",
+            "guid": "71f5b059-5d9d-49d9-be9c-b4d45002841f",
+            "id": "38",
+            "name": "ATKINS' PHYSICAL CHEMISTRY",
+            "type": "url",
+            "url": "http://www.rnlkwc.ac.in/pdf/study-material/chemistry/Peter_Atkins__Julio_de_Paula__Physical_Chemistry__1_.pdf"
+         }, {
+            "date_added": "13259815457757645",
+            "date_last_used": "0",
+            "guid": "1b55a59c-d507-4a13-846b-a0c4dc5bb452",
+            "id": "39",
+            "name": "AIME Strategies.pdf",
+            "type": "url",
+            "url": "https://yu-dylan.github.io/Handouts/AIME%20Strategies.pdf"
+         }, {
+            "date_added": "13260312550669055",
+            "date_last_used": "13311003203717256",
+            "guid": "4c6eee23-7b58-4668-9929-19ea93db2003",
+            "id": "41",
+            "name": "Vieta's-Formulas.pdf",
+            "type": "url",
+            "url": "https://cncmath.org/pdfs/handouts/Vieta's-Formulas.pdf"
+         }, {
+            "date_added": "13261242138023016",
+            "date_last_used": "0",
+            "guid": "34daec57-4a71-4ea6-b683-038a54a20f27",
+            "id": "43",
+            "name": "Introduction to Graph Theory - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Introduction_to_Graph_Theory/DRMZwrHKWwMC?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13261345792383358",
+            "date_last_used": "0",
+            "guid": "3b336769-0950-46cc-ac24-66ed0b4758a3",
+            "id": "45",
+            "name": "IMO resources for Graph Theory – Mike Pawliuk – Mathematics",
+            "type": "url",
+            "url": "https://mikepawliuk.ca/2018/06/24/imo-resources-for-graph-theory/"
+         }, {
+            "date_added": "13261557638183063",
+            "date_last_used": "0",
+            "guid": "d7cad275-0f90-408f-92a1-39501fe5b83a",
+            "id": "46",
+            "name": "Diestel: Graph Theory",
+            "type": "url",
+            "url": "http://www.esi2.us.es/~mbilbao/pdffiles/DiestelGT.pdf"
+         }, {
+            "date_added": "13261689146407333",
+            "date_last_used": "0",
+            "guid": "4c7cbf2d-f4db-4f1b-873b-d5b33fe3e232",
+            "id": "47",
+            "name": "free summer school and competition on graph searching",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h2509562_free_summer_school_and_competition_on_graph_searching"
+         }, {
+            "date_added": "13261921902685947",
+            "date_last_used": "13319976194583466",
+            "guid": "57a56327-5da3-49da-88ed-bafd91aad38e",
+            "id": "48",
+            "name": "Power_of_a_Point.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/19Qpr8wZa6srgBOXu0XonDI8d8ksgakdr/view"
+         }, {
+            "date_added": "13261941431555616",
+            "date_last_used": "13321709548571083",
+            "guid": "3dd1f29b-9268-4605-bd12-a22989261f6a",
+            "id": "49",
+            "name": "Graph THeory (157 Pages)",
+            "type": "url",
+            "url": "https://cloudflare-ipfs.com/ipfs/bafykbzaced5vxvfywqfybzg6gavhcfplf3lmg33yfg3lmbvr34ct7slyqpoty?filename=%28Mathematical%20Olympiad%20SERIES%203%29%20Liu%2C%20Ruifang_Zhongyi%2C%20Zheng%20-%20Graph%20theory_%20in%20mathematical%20olympiad%20and%20competitions-World%20Scientific%20Publishing%20Co%20%282010%29.pdf"
+         }, {
+            "date_added": "13262018953878879",
+            "date_last_used": "0",
+            "guid": "b334c6dc-1394-4f76-81c6-bece0ee3555c",
+            "id": "50",
+            "name": "Problem-Solving_Strategies_Engel.pdf",
+            "type": "url",
+            "url": "http://gimnazija-izdijankoveckoga-kc.skole.hr/upload/gimnazija-izdijankoveckoga-kc/multistatic/748/Problem-Solving_Strategies_Engel.pdf"
+         }, {
+            "date_added": "13262604837267229",
+            "date_last_used": "0",
+            "guid": "a58a7049-e0e2-4377-a720-c69a6150f975",
+            "id": "52",
+            "name": "Minitab",
+            "type": "url",
+            "url": "https://app.minitab.com/"
+         }, {
+            "date_added": "13263234821134485",
+            "date_last_used": "0",
+            "guid": "57dfe09a-f3c8-443b-95ab-05f26d939493",
+            "id": "53",
+            "name": "MONT Problem Discussion Links",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1610044h2349780_mont_problem_discussion_links"
+         }, {
+            "date_added": "13269525638059066",
+            "date_last_used": "0",
+            "guid": "0f087667-5b2e-4450-ae9e-2becdca683dc",
+            "id": "136",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13269525638060452",
+            "date_last_used": "13321282082046794",
+            "guid": "3b06e076-9aed-436f-95b0-50a24d923d68",
+            "id": "133",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13263666818639983",
+            "date_last_used": "0",
+            "guid": "5f62dcec-bbd4-4cb3-a7cb-676be9b6cdd6",
+            "id": "55",
+            "name": "Almost_Final_Version.pdf",
+            "type": "url",
+            "url": "file:///Users/ravinderbhandari/Downloads/Almost_Final_Version.pdf"
+         }, {
+            "date_added": "13263739984224029",
+            "date_last_used": "0",
+            "guid": "f1c272c9-4ef7-4580-b936-b2435f1bbf0b",
+            "id": "56",
+            "name": "solutions of pr0",
+            "type": "url",
+            "url": "file:///Users/ravinderbhandari/Downloads/NMTC_Final.pdf"
+         }, {
+            "date_added": "13269525638061326",
+            "date_last_used": "0",
+            "guid": "37c90c2e-470d-4d61-803d-92affc78e44f",
+            "id": "135",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13264708271390705",
+            "date_last_used": "0",
+            "guid": "49c83a32-2bbb-4ca9-a658-68b309f1451b",
+            "id": "58",
+            "name": "A Comprehensive List of Physics Olympiad Resources",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h2094716p20051793"
+         }, {
+            "date_added": "13264801627012842",
+            "date_last_used": "0",
+            "guid": "b5202ea9-ee04-4815-b11b-48264bedb80e",
+            "id": "60",
+            "name": "Handouts list",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u483464h2550333p21824325"
+         }, {
+            "date_added": "13265133859506071",
+            "date_last_used": "0",
+            "guid": "d120279b-bc3b-4b21-bd71-d232628a025a",
+            "id": "61",
+            "name": "IOQ 2020-21",
+            "type": "url",
+            "url": "https://meta-secure.com/IOQ21-displaymarks/Result.aspx"
+         }, {
+            "date_added": "13265631452739024",
+            "date_last_used": "0",
+            "guid": "a1f98754-b9eb-40c3-9ec0-19db99ac0666",
+            "id": "62",
+            "name": "graph-theory extra oly",
+            "type": "url",
+            "url": "http://ericshen.net/handouts/ZC-graph.pdf"
+         }, {
+            "date_added": "13265745004908867",
+            "date_last_used": "0",
+            "guid": "66950e8c-168a-4cf6-ae18-d69830094172",
+            "id": "63",
+            "name": "bary-full.pdf",
+            "type": "url",
+            "url": "https://web.evanchen.cc/handouts/bary/bary-full.pdf"
+         }, {
+            "date_added": "13265826454591358",
+            "date_last_used": "0",
+            "guid": "06dac7b7-6eab-4763-93cf-969ca9f5f4d0",
+            "id": "64",
+            "name": "Graph theory",
+            "type": "url",
+            "url": "https://amsi.org.au/ESA_Senior_Years/PDF/PDFvcaa/graphtheory7a.pdf"
+         }, {
+            "date_added": "13266089358037206",
+            "date_last_used": "0",
+            "guid": "2210422e-7e85-4711-9ce8-98c5124d9e8c",
+            "id": "66",
+            "name": "gt po shen loh",
+            "type": "url",
+            "url": "https://www.math.cmu.edu/~ploh/docs/math/mop2008/graph-theory-soln.pdf"
+         }, {
+            "date_added": "13266089480677184",
+            "date_last_used": "0",
+            "guid": "deca5991-b322-48e3-bbce-c97ba4fc86c7",
+            "id": "67",
+            "name": "gt problems",
+            "type": "url",
+            "url": "http://web.mit.edu/yufeiz/www/imo2008/tang-graph.pdf"
+         }, {
+            "date_added": "13266089730083745",
+            "date_last_used": "13319976177427590",
+            "guid": "68388f10-3b38-46d5-bbc7-2fcad659cdd2",
+            "id": "68",
+            "name": "more gt",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/119ia1_vHocsmBmMSCKCH3sDn5CemXHyt/view"
+         }, {
+            "date_added": "13266090329138578",
+            "date_last_used": "0",
+            "guid": "7c281365-aa5d-409a-ba21-335dd89a0245",
+            "id": "69",
+            "name": "Online Math Club",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c260h2553390_online_math_club"
+         }, {
+            "date_added": "13266097306624739",
+            "date_last_used": "0",
+            "guid": "2ea90e4e-9f27-42e3-9bb8-5f63903340cb",
+            "id": "70",
+            "name": "canada mo",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1EkWfJnePVY-913RxA2MWER2YuZ9iu-PD--KtGzj1dNk/edit#"
+         }, {
+            "date_added": "13266328334423905",
+            "date_last_used": "13380490481487517",
+            "guid": "0e8061cc-e976-4b93-b0e8-1aee8542a417",
+            "id": "72",
+            "name": "evan blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1659h1371559"
+         }, {
+            "date_added": "13266328816934809",
+            "date_last_used": "0",
+            "guid": "f9e10038-fa42-43fa-9952-e31ed434d5c8",
+            "id": "73",
+            "name": "Solution Writing - Calvin Lin | Brilliant",
+            "type": "url",
+            "url": "https://brilliant.org/discussions/thread/solution-writing/"
+         }, {
+            "date_added": "13266442589378911",
+            "date_last_used": "0",
+            "guid": "8256fd7b-9fa4-419c-94d6-62a1244b8653",
+            "id": "75",
+            "name": "Olympiad Articles",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c13188_olympiad_articles"
+         }, {
+            "date_added": "13266674806612657",
+            "date_last_used": "0",
+            "guid": "221f2165-8c04-4cd5-abba-391a7e4b37da",
+            "id": "76",
+            "name": "Handouts | CJ Quines",
+            "type": "url",
+            "url": "https://cjquines.com/math/handouts"
+         }, {
+            "date_added": "13267398387346064",
+            "date_last_used": "0",
+            "guid": "4a5d9450-ad07-4faa-8192-a999d5550b6c",
+            "id": "78",
+            "name": "Aman's Blog: Chemistry",
+            "type": "url",
+            "url": "https://amangoeliitb.blogspot.com/p/chemistry.html"
+         }, {
+            "date_added": "13267399893554242",
+            "date_last_used": "0",
+            "guid": "1913c2cd-05b8-43a2-ad3e-2ee792762422",
+            "id": "79",
+            "name": "Combinatorics and Graph Theory, Second Edition (Undergraduate - PDF Drive",
+            "type": "url",
+            "url": "https://www.pdfdrive.com/combinatorics-and-graph-theory-second-edition-undergraduate-e16598319.html"
+         }, {
+            "date_added": "13267402289295021",
+            "date_last_used": "0",
+            "guid": "cae48a3a-d486-418e-80e9-cf739f8f3d40",
+            "id": "80",
+            "name": "Phase Planner Class 11th.pdf",
+            "type": "url",
+            "url": "https://www.fiitjeegurgaon.in/webdocs/phase_planner/Phase%20Planner%20Class%2011th.pdf"
+         }, {
+            "date_added": "13267486435268153",
+            "date_last_used": "13323879770335842",
+            "guid": "a36685e3-8e37-42a3-ad23-344af86e4dd8",
+            "id": "81",
+            "name": "physical chem wiley",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1_pQ1YI2-Q8qTgqU3Dn6VAgH-KyeWR7f8/view"
+         }, {
+            "date_added": "13267706400277356",
+            "date_last_used": "0",
+            "guid": "bb379ddd-7238-4370-8f8f-7d53c20c776a",
+            "id": "83",
+            "name": "[PDF] Fiitjee Phase Test 1 (Class 11th),Jee Advance Paper 1 | WIAC.INFO",
+            "type": "url",
+            "url": "https://wiac.info/doc-view"
+         }, {
+            "date_added": "13267714720521349",
+            "date_last_used": "0",
+            "guid": "7879c14c-ab65-4bc2-8946-90ef3ef8505d",
+            "id": "84",
+            "name": "Graph Theory by Frank Harary - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=Graph+Theory+by+Frank+Harary&sxsrf=ALeKk01Lg224cbvNFF8wtT7hC8uNHeVyTw%3A1623241111792&source=hp&ei=l7HAYNGBLuWomgetgaqoCg&iflsig=AINFCbYAAAAAYMC_pzRm7fma0yigBJWcZ6LDu2_ummpC&oq=Graph+Theory+by+Frank+Harary&gs_lcp=Cgdnd3Mtd2l6EANQAFgAYJgGaABwAHgAgAEAiAEAkgEAmAEAoAECqgEHZ3dzLXdpeg&sclient=gws-wiz&ved=0ahUKEwiRqeeuxIrxAhVllOYKHa2ACqUQ4dUDCAg&uact=5"
+         }, {
+            "date_added": "13267738384715259",
+            "date_last_used": "13311003224707923",
+            "guid": "2e9a816b-da12-412a-86db-0eeaba7e941f",
+            "id": "85",
+            "name": "algebra",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Mathematics_via_Problems/fnUjEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13267991834541123",
+            "date_last_used": "13360333121490208",
+            "guid": "0e199375-df9c-4340-8fad-79286477d1c2",
+            "id": "87",
+            "name": "chem resource",
+            "type": "url",
+            "url": "https://www.chemteam.info/ChemTeamIndex.html"
+         }, {
+            "date_added": "13268179446522548",
+            "date_last_used": "0",
+            "guid": "9b327331-adf1-4f69-a11f-bb1883c1713f",
+            "id": "88",
+            "name": "Competitive Physics: Mechanics And Waves - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Competitive_Physics_Mechanics_And_Waves/slZoDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13268469103584871",
+            "date_last_used": "0",
+            "guid": "8cf8bc96-d09a-4988-9a42-0c854028af98",
+            "id": "89",
+            "name": "Wang's competitive physics - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=Wang%27s+competitive+physics&sxsrf=ALeKk02XHzZM6SEAWCjrSl1hbIHEax7fiQ%3A1623995500409&source=hp&ei=bDTMYP3sFebbz7sPiaqP6Ao&iflsig=AINFCbYAAAAAYMxCfBdYPYrmNQNmcujUG_wHLRW7doB1&oq=Wang%27s+competitive+physics&gs_lcp=Cgdnd3Mtd2l6EANQigVYigVg5gpoAHAAeACAAb0CiAG9ApIBAzMtMZgBAKABAqABAaoBB2d3cy13aXo&sclient=gws-wiz&ved=0ahUKEwj90qnXvqDxAhXm7XMBHQnVA60Q4dUDCAc&uact=5"
+         }, {
+            "date_added": "13269887001240532",
+            "date_last_used": "0",
+            "guid": "55abd6c6-3a09-4177-b486-ddf284cea3f3",
+            "id": "91",
+            "name": "HRKAnswers.pdf",
+            "type": "url",
+            "url": "https://knzhou.github.io/tutoring/HRKAnswers.pdf"
+         }, {
+            "date_added": "13270909461642282",
+            "date_last_used": "13327000957535657",
+            "guid": "da4265c6-9e8b-4ac1-b9b2-2e5732aa24b3",
+            "id": "93",
+            "name": "searching math",
+            "type": "url",
+            "url": "https://approach0.xyz/search/"
+         }, {
+            "date_added": "13271457399755470",
+            "date_last_used": "13321709589790454",
+            "guid": "cae4413c-d00f-47a5-8e1d-972d135b7efb",
+            "id": "94",
+            "name": "error physics",
+            "type": "url",
+            "url": "https://www.npl.co.uk/special-pages/guides/gpg11_uncertainty.pdf"
+         }, {
+            "date_added": "13273175973633214",
+            "date_last_used": "0",
+            "guid": "243bb966-0ec9-4ecf-88a8-6dcf73a8fa0b",
+            "id": "96",
+            "name": "AdviceAfter.pdf",
+            "type": "url",
+            "url": "https://knzhou.github.io/writing/AdviceAfter.pdf"
+         }, {
+            "date_added": "13274129738029640",
+            "date_last_used": "13334967148820927",
+            "guid": "dbd7d6bc-4760-4a32-8ab8-26cde802e539",
+            "id": "98",
+            "name": "prick",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h2652992_confirmation_to_my_imo_strategy"
+         }, {
+            "date_added": "13274795047308930",
+            "date_last_used": "0",
+            "guid": "31d8d764-1553-435e-bd70-bd05e6ea32c9",
+            "id": "100",
+            "name": "Simple inequality",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c4h2338473"
+         }, {
+            "children": [ {
+               "date_added": "13275484616317858",
+               "date_last_used": "13353933917951571",
+               "guid": "99fcbe15-da1e-4d3e-a3be-3e065f0c9701",
+               "id": "101",
+               "name": "multigraph seqn",
+               "type": "url",
+               "url": "http://compalg.inf.elte.hu/~tony/Oktatas/Algoritmusok-hatekonysaga/Hakimi-SIAM62.pdf"
+            } ],
+            "date_added": "13275484648221406",
+            "date_last_used": "0",
+            "date_modified": "13275484648221562",
+            "guid": "96235a01-b3f3-4f9f-928b-1b76921eb0b9",
+            "id": "102",
+            "name": "graph theory resources",
+            "type": "folder"
+         }, {
+            "date_added": "13276356277620309",
+            "date_last_used": "13380490570135568",
+            "guid": "cf270218-b382-4e58-a018-359029401d46",
+            "id": "104",
+            "name": "victor wang's blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1461h1042438"
+         }, {
+            "date_added": "13276356340489275",
+            "date_last_used": "0",
+            "guid": "f7615750-25b3-4926-8cf6-ed2f6fc2ebdd",
+            "id": "105",
+            "name": "victor wang's handouts",
+            "type": "url",
+            "url": "https://web.math.princeton.edu/~vywang/archive.html#resources"
+         }, {
+            "date_added": "13276356351458148",
+            "date_last_used": "0",
+            "guid": "b0624973-9e5c-4fc9-baa1-e2ce67cdf5b1",
+            "id": "106",
+            "name": "also victor wang's handouts",
+            "type": "url",
+            "url": "https://web.math.princeton.edu/~vywang/#informal"
+         }, {
+            "date_added": "13276421987418135",
+            "date_last_used": "0",
+            "guid": "cd0e0399-4e39-4706-9481-6ad25a9c1333",
+            "id": "107",
+            "name": "olympiad resource",
+            "type": "url",
+            "url": "https://www.dropbox.com/sh/pwfeve60hdbpgqt/AAAawA_CgS1RAquBFhIElcbYa/Combinatorics?dl=0&subfolder_nav_tracking=1"
+         }, {
+            "date_added": "13276527355159008",
+            "date_last_used": "13321281377977974",
+            "guid": "fdb23bd8-1e52-4393-a56a-c325ae96cb03",
+            "id": "108",
+            "name": "render latex",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/texer"
+         }, {
+            "date_added": "13276639186156765",
+            "date_last_used": "0",
+            "guid": "b1658374-ca81-447b-ae77-f5de452a55ff",
+            "id": "109",
+            "name": "search latex",
+            "type": "url",
+            "url": "https://detexify.kirelabs.org/classify.html"
+         }, {
+            "date_added": "13276734809509778",
+            "date_last_used": "13380490586653484",
+            "guid": "681bf6b1-f3f2-4835-950a-be72363ebf82",
+            "id": "110",
+            "name": "some cool stuff",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c87553h1098130"
+         }, {
+            "date_added": "13276777915709549",
+            "date_last_used": "0",
+            "guid": "b2977a38-a7fc-4d80-b7c2-db198a78c759",
+            "id": "111",
+            "name": "spiral sim",
+            "type": "url",
+            "url": "https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2019-01/mr_1_2019_spiral_similarity.pdf"
+         }, {
+            "date_added": "13276964790501207",
+            "date_last_used": "13380490683550644",
+            "guid": "2e3ef5e6-71fc-43a1-b065-f0e3857e0111",
+            "id": "113",
+            "name": "i'm not alone",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1008894h1971475"
+         }, {
+            "date_added": "13277339673777690",
+            "date_last_used": "13323879752744340",
+            "guid": "f416134e-d2d7-4025-bdc2-2e1ee7ebf15b",
+            "id": "115",
+            "name": "physical chem",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1BenReGT0xWEa-JOE41L5pnBZrobWsjms/view"
+         }, {
+            "date_added": "13277412171751788",
+            "date_last_used": "13337200566686146",
+            "guid": "7176d602-d28f-4cd3-b231-610d07ad5a99",
+            "id": "117",
+            "name": "nice contest",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h2680805_prizes_nice_fall_2021_no_i_cant_acronymize"
+         }, {
+            "date_added": "13277415624655108",
+            "date_last_used": "0",
+            "guid": "11786668-7614-485c-ab42-a4316faf9db3",
+            "id": "118",
+            "name": "nice exam",
+            "type": "url",
+            "url": "https://www.nicecontest.xyz/sponsors"
+         }, {
+            "date_added": "13277569687672433",
+            "date_last_used": "0",
+            "guid": "1f797617-45fb-42b6-ba94-d3ced2f62ff4",
+            "id": "119",
+            "name": "polynomial handout",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1UXRCPhMD11C_B0KwSQeIpbue-GjFBnoE/view"
+         }, {
+            "date_added": "13277570102920145",
+            "date_last_used": "0",
+            "guid": "2726ed6c-adc9-4837-9256-24c8465328a8",
+            "id": "120",
+            "name": "ineq handout",
+            "type": "url",
+            "url": "https://www.researchgate.net/publication/264892067_Basics_of_Olympiad_Inequalities"
+         }, {
+            "date_added": "13277904271156714",
+            "date_last_used": "13354050179396402",
+            "guid": "ccbac1b4-d8f4-49f5-b096-3022e20d7c11",
+            "id": "121",
+            "name": "COOL BLOG",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c792843"
+         }, {
+            "date_added": "13278286187834152",
+            "date_last_used": "0",
+            "guid": "769db959-052e-4eab-9c99-63d59e429d76",
+            "id": "122",
+            "name": "advice MO?",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h420845p2379622"
+         }, {
+            "date_added": "13278287266298438",
+            "date_last_used": "0",
+            "guid": "67aced4a-6c3c-4a17-abdc-8ce4fe149134",
+            "id": "123",
+            "name": "EULER LINE",
+            "type": "url",
+            "url": "https://www.slideshare.net/DominikTeiml/ee5-60215110"
+         }, {
+            "date_added": "13278288226695719",
+            "date_last_used": "13315351491607713",
+            "guid": "0ad3c6df-820f-47e6-867b-4582d3a6902d",
+            "id": "124",
+            "name": "I will",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h522616p2961415"
+         }, {
+            "date_added": "13278415641204179",
+            "date_last_used": "0",
+            "guid": "0849c581-0649-45cf-977b-cad31287c6f4",
+            "id": "126",
+            "name": "similar to usamo question",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/2550437/iterated-eulers-totient-function?rq=1"
+         }, {
+            "date_added": "13278940995199864",
+            "date_last_used": "0",
+            "guid": "0f6d34a9-646f-4bf0-bf54-855eeb341341",
+            "id": "128",
+            "name": "projective geo",
+            "type": "url",
+            "url": "https://www.google.com/search?q=geometry+of+conics+&sxsrf=AOaemvLjWutHqA8JtjXMCYXdR4lRZ9tw6g%3A1634467374996&source=hp&ei=Lv5rYaCxOrDY1sQPvIqb2AE&iflsig=ALs-wAMAAAAAYWwMPsSOIwstvNuWv5uWLLgiRLOJvu_J&ved=0ahUKEwiggKC6odHzAhUwrJUCHTzFBhsQ4dUDCAg&uact=5&oq=geometry+of+conics+&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjoECCMQJzoFCAAQkQI6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToICAAQgAQQsQM6CggAEIAEEIcCEBQ6BQguEIAEOggILhCABBCxAzoLCC4QgAQQsQMQgwE6DQgAEIAEEIcCELEDEBQ6BQguEJECUMMEWJE7YKtyaABwAHgEgAH4DYgBlEmSAREwLjQuMy4yLjEuMi4xLjEuMpgBAKABAQ&sclient=gws-wiz"
+         }, {
+            "date_added": "13279129641623684",
+            "date_last_used": "13321709126492015",
+            "guid": "20833ff9-c6cb-46fd-bc12-6aebd3ada08f",
+            "id": "130",
+            "name": "really hard algebra problem",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h2694136_my_best_problem"
+         }, {
+            "date_added": "13279226209830773",
+            "date_last_used": "0",
+            "guid": "06d494d2-adab-467e-95f4-84944ec0e1cf",
+            "id": "131",
+            "name": "isognonal line lemma",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c2771h1181729_isogonal_line_lemma_updated"
+         }, {
+            "date_added": "13279227348472527",
+            "date_last_used": "13380490704408069",
+            "guid": "9ef2e3b0-36ce-457a-bd60-991c0ed9bfec",
+            "id": "132",
+            "name": "read this in free time",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h581145p8472853"
+         }, {
+            "date_added": "13279848179450031",
+            "date_last_used": "0",
+            "guid": "76ebe55a-6d9a-4bab-b0ff-8ca70ba28b46",
+            "id": "137",
+            "name": "advice on induction",
+            "type": "url",
+            "url": "https://mathoverflow.net/questions/31699/strengthening-the-induction-hypothesis"
+         }, {
+            "date_added": "13280152830328201",
+            "date_last_used": "0",
+            "guid": "b26bfa6a-b12b-4264-8241-fc5ad63c3613",
+            "id": "138",
+            "name": "advice on tough problems",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q2h590938p3502767"
+         }, {
+            "date_added": "13280253899964697",
+            "date_last_used": "0",
+            "guid": "ff0d6a32-800b-478f-aafa-f00c249440f0",
+            "id": "139",
+            "name": "Analytic Number Theory Handout",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h2251201p17343711"
+         }, {
+            "date_added": "13280254143754770",
+            "date_last_used": "0",
+            "guid": "ba6592b8-0583-4379-8dfc-5262668fbad4",
+            "id": "141",
+            "name": "Algebraic Number Theory book (from an olympiad perspective)",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q3h2687075p23312994"
+         }, {
+            "date_added": "13280315458832913",
+            "date_last_used": "13321709658743087",
+            "guid": "ff24d876-7a03-478f-a97c-f12a7add189a",
+            "id": "142",
+            "name": "isogonal conjugate canada",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1duW4JJa5WYo36Cnw--w6SIZkT2a1TV2k/view"
+         }, {
+            "date_added": "13280333523284593",
+            "date_last_used": "0",
+            "guid": "3e7a7ae0-0246-40e1-9990-fe945d1a54a6",
+            "id": "143",
+            "name": "FIRST CONTEST FOR ME, TAKE PART PLS",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h2708626_2nd_mmo__year_2"
+         }, {
+            "date_added": "13280581140925187",
+            "date_last_used": "0",
+            "guid": "3b35df95-4546-4ee9-b6d1-09c553b82a11",
+            "id": "145",
+            "name": "darji grinberg advice",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/3293811/algebra-and-combinatorics-books-for-mathematical-olympiads"
+         }, {
+            "date_added": "13280785777940157",
+            "date_last_used": "0",
+            "guid": "f7d3c2fd-ed57-4683-b3d6-c1df77c3fc54",
+            "id": "146",
+            "name": "symmedians",
+            "type": "url",
+            "url": "https://www.dropbox.com/sh/f66lfkmqiaimcrb/AAAB1nznpklkkcB0LkG_GZ1pa/Geometry/Symmedians%20-%20Robin%20Park%20-%20TJUSAMO%202014.pdf?dl=0"
+         }, {
+            "date_added": "13280955157926908",
+            "date_last_used": "0",
+            "guid": "071f563d-ad09-4cb3-aa5d-ab312320b946",
+            "id": "147",
+            "name": "An Invitation to Mathematics - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/An_Invitation_to_Mathematics/9TATfteVeVYC?hl=en&gbpv=0"
+         }, {
+            "date_added": "13281178511319471",
+            "date_last_used": "0",
+            "guid": "2295656b-8e33-4448-8057-df011c4252d2",
+            "id": "148",
+            "name": "Olympiad books david yang gt",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h289860p1568423"
+         }, {
+            "date_added": "13281179223406242",
+            "date_last_used": "0",
+            "guid": "963ad66b-ad6f-4678-936c-42ad2ce1cc23",
+            "id": "149",
+            "name": "contest math stuff/some advice on how to get good",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h385654"
+         }, {
+            "date_added": "13281220599320320",
+            "date_last_used": "0",
+            "guid": "8ca87ed3-aef5-4d71-91c9-e3012317fee4",
+            "id": "150",
+            "name": "AOPS JOURNEY, AN ARTICLE",
+            "type": "url",
+            "url": "https://www.newyorker.com/culture/persons-of-interest/richard-rusczyks-worldwide-math-camp"
+         }, {
+            "date_added": "13281312320818689",
+            "date_last_used": "13380490723893828",
+            "guid": "bd705a95-aa67-4e76-99fe-709620e5c9e7",
+            "id": "151",
+            "name": "READ THIS BLOG MAYBE",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1218h992911"
+         }, {
+            "date_added": "13281794208512375",
+            "date_last_used": "0",
+            "guid": "14d9e5dc-96aa-42cf-b998-d03f30c89372",
+            "id": "153",
+            "name": "Cyclotomic Polynomials.pdf",
+            "type": "url",
+            "url": "file:///Users/ravinderbhandari/Downloads/Cyclotomic%20Polynomials.pdf"
+         }, {
+            "date_added": "13281795756762915",
+            "date_last_used": "0",
+            "guid": "506c8b9a-e1c6-4c91-9a90-f849165e1a18",
+            "id": "154",
+            "name": "Burnside's Lemma",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h535106p3092800"
+         }, {
+            "date_added": "13282730207504668",
+            "date_last_used": "0",
+            "guid": "7488cfdc-e189-4ac8-ba48-5c9e04973cdd",
+            "id": "156",
+            "name": "Pearson - Physics Class 9.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1YBkqnYG9CdulkxdUk7_a2e2NcdAAcqBs/view"
+         }, {
+            "date_added": "13282830498839334",
+            "date_last_used": "0",
+            "guid": "48e73728-d087-43ca-afa0-b48d52d37b18",
+            "id": "157",
+            "name": "Classical Inequalities | Brilliant Math & Science Wiki",
+            "type": "url",
+            "url": "https://brilliant.org/wiki/classical-inequalities/"
+         }, {
+            "date_added": "13283089212710090",
+            "date_last_used": "0",
+            "guid": "83fae6f0-14f4-4018-abb3-1d6d2913a8fd",
+            "id": "158",
+            "name": "Sos - sum of squares",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h80127_sos__sum_of_squares"
+         }, {
+            "date_added": "13283811343702736",
+            "date_last_used": "0",
+            "guid": "e3ccce20-e075-4adc-bd0c-5d4110c131ec",
+            "id": "160",
+            "name": "Time Commitment for Lemmas in Olympiad Geometry",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q2h2159077p15983536"
+         }, {
+            "date_added": "13283890904834569",
+            "date_last_used": "0",
+            "guid": "463604ce-c6b5-4e6c-9cf7-761e66c57d25",
+            "id": "162",
+            "name": "math, yitang zhang+",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=pp06oGD4m00&t=218s"
+         }, {
+            "date_added": "13283982731972098",
+            "date_last_used": "0",
+            "guid": "ace0a5fe-3b1f-4a79-880e-96dd71917ed8",
+            "id": "164",
+            "name": "Counting from Infinity _Yitang Zhang and the Twin Prime Conjecture - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=sBADiHU_0Wg"
+         }, {
+            "date_added": "13283994062370731",
+            "date_last_used": "0",
+            "guid": "0e5ca0b0-f9c8-48cd-a61c-d3ef9384fbbb",
+            "id": "166",
+            "name": "trevor, high school kid who knows analytic nt blog",
+            "type": "url",
+            "url": "https://travorlzh.github.io/2020/10/14/mobius-inversion.html"
+         }, {
+            "date_added": "13284217218159659",
+            "date_last_used": "0",
+            "guid": "a8f0d376-83ba-410b-a281-c8ddb1e846d0",
+            "id": "168",
+            "name": "Combinatorics and Graph Theory, Second Edition (Undergraduate Texts in Mathematics)",
+            "type": "url",
+            "url": "https://doc.lagout.org/science/0_Computer%20Science/3_Theory/Graph%20Theory/Combinatorics%20and%20Graph%20Theory.pdf"
+         }, {
+            "date_added": "13294525401284555",
+            "date_last_used": "0",
+            "guid": "fe4c98f6-0c4e-47a5-bcb4-906b13b78c60",
+            "id": "170",
+            "name": "Irresistible Integrals - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Irresistible_Integrals/g9tH8M3NvDIC?hl=en&gbpv=1"
+         }, {
+            "date_added": "13294765565232192",
+            "date_last_used": "13326081817015707",
+            "guid": "f961b128-ca5f-4b96-8217-fdcc1bde4c07",
+            "id": "172",
+            "name": "Highest scored 'integration' questions - Mathematics Stack Exchange",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/tagged/integration"
+         }, {
+            "date_added": "13294765622836340",
+            "date_last_used": "0",
+            "guid": "a98f15c2-fdaf-45b4-9b65-c777445bcaeb",
+            "id": "173",
+            "name": "advanced-integration-techniques6.pdf",
+            "type": "url",
+            "url": "https://zaidalyafeai.files.wordpress.com/2015/09/advanced-integration-techniques6.pdf"
+         }, {
+            "date_added": "13294765705078446",
+            "date_last_used": "0",
+            "guid": "2f16f085-1d1f-4f8c-bf54-cb1048f88740",
+            "id": "174",
+            "name": "Feynman integration",
+            "type": "url",
+            "url": "https://web.williams.edu/Mathematics/lg5/Feynman.pdf"
+         }, {
+            "date_added": "13295226677279584",
+            "date_last_used": "0",
+            "guid": "18f6a493-fb3a-4acb-a777-167cea813845",
+            "id": "176",
+            "name": "Graphing Calculator Story",
+            "type": "url",
+            "url": "http://www.pacifict.com/Story/"
+         }, {
+            "date_added": "13296354104495452",
+            "date_last_used": "0",
+            "guid": "b2021559-841d-4f55-ae8f-dba2668c10f1",
+            "id": "178",
+            "name": "best undergraduate calculus textbooks - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=best+undergraduate+calculus+textbooks&sxsrf=ALiCzsZz3PlCzrk-85L7yWBAyuvmKvPxwA%3A1651880502008&source=hp&ei=NbJ1Ytz9O9iWseMP2-OiyA4&iflsig=AJiK0e8AAAAAYnXARg6q--VnyDq6gF0dx5-wNYPfJhwt&ved=0ahUKEwic7KC0hsz3AhVYS2wGHduxCOkQ4dUDCAc&uact=5&oq=best+undergraduate+calculus+textbooks&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEA0yBggAEBYQHjIGCAAQFhAeMgYIABAWEB5QAFgAYLQDaABwAHgAgAF4iAF4kgEDMC4xmAEAoAECoAEB&sclient=gws-wiz"
+         }, {
+            "date_added": "13296354110194622",
+            "date_last_used": "0",
+            "guid": "f48a522d-2024-47e5-9e7b-7be77786bfaf",
+            "id": "179",
+            "name": "tough calculus textbooks - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=tough+calculus+textbooks&sxsrf=ALiCzsY4baezxD306_5bsuTycHddhojPCA%3A1651880503478&ei=N7J1Ypj2HK-aseMPhZ222AQ&oq=tou&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIFCAAQkQIyBQgAEJECMgQIABBDMgcILhDUAhBDMgQIABBDMgQIABBDMggIABCABBDJAzIFCAAQkgMyBQgAEJIDOgcIIxDqAhAnOggILhDUAhCRAjoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOgUIABCABEoECEEYAEoECEYYAFC-A1jGBmC4D2gBcAF4AIABjQGIAYgDkgEDMC4zmAEAoAEBsAEKwAEB&sclient=gws-wiz"
+         }, {
+            "date_added": "13296434835978744",
+            "date_last_used": "13317324462914000",
+            "guid": "4cc357a3-69f9-4a1e-b333-425bc169bd3d",
+            "id": "180",
+            "name": "isl bot",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h2242638_imo_shortlist_marabot"
+         }, {
+            "date_added": "13297965655920996",
+            "date_last_used": "0",
+            "guid": "e687a1fd-b3ed-4141-930e-d8124afbd2fd",
+            "id": "182",
+            "name": "geom-conics.pdf",
+            "type": "url",
+            "url": "https://davidaltizio.web.illinois.edu/geom-conics.pdf"
+         }, {
+            "date_added": "13297966024032327",
+            "date_last_used": "0",
+            "guid": "e86c8316-605c-4149-9e91-a2f45e02e1e4",
+            "id": "184",
+            "name": "p_square blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c698232h2589508_angle_chasing_with_ellipses_p"
+         }, {
+            "date_added": "13298079127855153",
+            "date_last_used": "0",
+            "guid": "796b812d-43c0-4d3c-92ba-dbede84f3b20",
+            "id": "186",
+            "name": "fields medallist, no calc at 18",
+            "type": "url",
+            "url": "https://www.quantamagazine.org/a-traveler-who-finds-stability-in-the-natural-world-20180801"
+         }, {
+            "date_added": "13298079469134836",
+            "date_last_used": "0",
+            "guid": "237baa9f-a1b5-4217-a249-2ee101e2c285",
+            "id": "187",
+            "name": "physics book lists",
+            "type": "url",
+            "url": "https://physics.stackexchange.com/questions/12175/resource-recommendations"
+         }, {
+            "date_added": "13298081252470427",
+            "date_last_used": "0",
+            "guid": "a7bc3a67-c5fb-4073-be47-f9e67cd83f03",
+            "id": "188",
+            "name": "Fundamentals of Physics II - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Fundamentals_of_Physics_II/-HXgDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13298237256970831",
+            "date_last_used": "0",
+            "guid": "c540b335-db2d-4950-b3a2-890da5235a15",
+            "id": "190",
+            "name": "how to study advanced math w/out basics",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/617625/on-familiarity-or-how-to-avoid-going-down-the-math-rabbit-hole"
+         }, {
+            "date_added": "13298240350127048",
+            "date_last_used": "0",
+            "guid": "73863365-aa3a-4184-955d-a99b9affe521",
+            "id": "191",
+            "name": "proof pi is irrational, brilliant 1 page ivan niven",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Proof_that_%CF%80_is_irrational#:~:text=as%20an%20integral.-,Niven's%20proof,zero%20of%20the%20sine%20function.&text=Claim%201%3A%20F(0),is%200%20if%20k%20%3C%20n."
+         }, {
+            "date_added": "13298242082342538",
+            "date_last_used": "0",
+            "guid": "b07afc33-8e6a-43cd-b358-f7de48c35f8d",
+            "id": "192",
+            "name": "generatingfunctionology - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=generatingfunctionology&sxsrf=ALiCzsa6k3RzpvRDTy_E1LR3MQkJ7QItbA%3A1653768475666&source=hp&ei=G4GSYujIJpaI0gT_47fgDw&iflsig=AJiK0e8AAAAAYpKPK3_54qdy4OgSCIEhtLOqN3Eb6VbX&gs_ssp=eJzj4tLP1TcwsygpyTE3YPQST0_NSy1KLMnMS08rzUsuyczPy8_JT68EAOOeDU8&oq=generatingfunc&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCC4QxAIyBQgAEIAEMgcIABCxAxAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKOgQIIxAnOhAILhCxAxCDARDHARDRAxBDOgQIABBDOgcILhDUAhBDOgoIABCxAxCDARBDOgQILhBDOgsIABCABBCxAxCDAToKCC4QxwEQowIQQzoICC4QgAQQsQM6CAguELEDEIMBOggIABCABBCxAzoOCC4QsQMQgwEQxwEQrwE6DgguEIAEELEDEMcBEKMCOg0ILhCxAxDHARCjAhBDOgcIIxCxAhAnOgsILhCABBDHARCvAToHCAAQgAQQCjoHCAAQyQMQCjoFCAAQkgM6CAgAEIAEEMkDOgcIABCxAxBDOg4IABCABBCxAxCDARDJAzoFCC4QgAQ6BQguELEDOg0IABCABBCxAxBGEPkBUABYqhtgoiRoAXAAeACAAaIBiAH6D5IBBDAuMTWYAQCgAQE&sclient=gws-wiz"
+         }, {
+            "date_added": "13298243355034083",
+            "date_last_used": "0",
+            "guid": "1cf5dff9-440c-4624-a7d2-8ee33889f53a",
+            "id": "193",
+            "name": "good calc books",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/141269/rudins-principles-of-mathematical-analysis-or-apostols-mathematical-analysis/141277#141277"
+         }, {
+            "date_added": "13298243781093458",
+            "date_last_used": "0",
+            "guid": "de77c48e-c37c-4581-9b21-cc5f48d6d7e9",
+            "id": "194",
+            "name": "The Princeton Companion to Mathematics - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/The_Princeton_Companion_to_Mathematics/ZOfUsvemJDMC?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13298527698589557",
+            "date_last_used": "0",
+            "guid": "1fccfe76-4ea4-4ce0-b99d-44006e5db700",
+            "id": "196",
+            "name": "131 - Mu Limits and Derivatives_0.pdf",
+            "type": "url",
+            "url": "https://mualphatheta.org/sites/default/files/131%20-%20Mu%20Limits%20and%20Derivatives_0.pdf"
+         }, {
+            "date_added": "13298527711673560",
+            "date_last_used": "0",
+            "guid": "5c365587-0929-4733-87ea-591087fe7011",
+            "id": "197",
+            "name": "Past Tests | Mu Alpha Theta",
+            "type": "url",
+            "url": "https://mualphatheta.org/past_tests"
+         }, {
+            "date_added": "13298573729256368",
+            "date_last_used": "0",
+            "guid": "2bd48173-5a9f-4368-a3f2-b12e883f27af",
+            "id": "198",
+            "name": "Irresistible Integrals - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Irresistible_Integrals/g9tH8M3NvDIC?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13298642586160594",
+            "date_last_used": "0",
+            "guid": "346db80c-4ee8-4979-b839-19ac104f758a",
+            "id": "199",
+            "name": "graduate nt",
+            "type": "url",
+            "url": "https://www.maa.org/press/maa-reviews/a-classical-introduction-to-modern-number-theory"
+         }, {
+            "date_added": "13299104883947761",
+            "date_last_used": "13324002220164641",
+            "guid": "1a029a37-4c36-443f-b36f-9adb3927b579",
+            "id": "201",
+            "name": "why do you waste so much time on the internet. | zanlog",
+            "type": "url",
+            "url": "https://zan.bearblog.dev/why-i-waste-time/"
+         }, {
+            "date_added": "13299599190369515",
+            "date_last_used": "0",
+            "guid": "894da7b0-05ba-4925-9a53-f2c492e9bbba",
+            "id": "202",
+            "name": "zuck did hmmt",
+            "type": "url",
+            "url": "https://hmmt-archive.s3.amazonaws.com/tournaments/2001/feb/results/short.txt"
+         }, {
+            "date_added": "13299599641592821",
+            "date_last_used": "0",
+            "guid": "91965002-9cff-4ada-940e-09d53c781a88",
+            "id": "203",
+            "name": "zuck did aime",
+            "type": "url",
+            "url": "https://www.huffpost.com/entry/if-mark-zuckerberg-loves-transparency-he-wont-care-if-we-publish-his-harvard-application_n_5ab1675fe4b054d118ddc59c"
+         }, {
+            "date_added": "13299633299860811",
+            "date_last_used": "0",
+            "guid": "b32332b1-a113-4891-9b69-b418e7a802a2",
+            "id": "205",
+            "name": "50th IMO – 50 Years of International Mathematical Olympiads",
+            "type": "url",
+            "url": "https://mathveryyear.files.wordpress.com/2011/08/ebooksclub-org__50th_imo___50_years_of_international_mathematical_olympiads.pdf"
+         }, {
+            "date_added": "13299633940920486",
+            "date_last_used": "0",
+            "guid": "fb27d4d4-181e-4b5e-9d41-69d2d9f77605",
+            "id": "206",
+            "name": "read some random jee guys on quora for fun sometimes",
+            "type": "url",
+            "url": "https://www.quora.com/profile/Pradipta-Bora-1"
+         }, {
+            "date_added": "13299671942542363",
+            "date_last_used": "0",
+            "guid": "3cde9f9f-7adc-412b-a579-dd5f9856e43b",
+            "id": "207",
+            "name": "aman goel ",
+            "type": "url",
+            "url": "https://magoosh.com/jee/author/aman-goel/"
+         }, {
+            "date_added": "13300324678134705",
+            "date_last_used": "0",
+            "guid": "5ce594a4-8842-4bde-842e-e64c661a2387",
+            "id": "208",
+            "name": "George Hotz | Programming | Livecoding SLAM | twitchslam | Part1 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=7Hlb8YX2-W8"
+         }, {
+            "date_added": "13300898061970397",
+            "date_last_used": "0",
+            "guid": "7640ba27-40f7-460d-bc99-3d391f8680fa",
+            "id": "209",
+            "name": "ted shifrin multivariable mathematics - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=ted+shifrin+multivariable+mathematics&sxsrf=ALiCzsZwJvk5nq3HwRodUoLxIaMrlYPZWQ%3A1656424455681&source=hp&ei=Bwi7Yq3wJt2Q4-EPpMOP2Ag&iflsig=AJiK0e8AAAAAYrsWF-9zSbeP9niimeFsjoS1qXKPE7IX&gs_ssp=eJzj4tLP1TdINkkrqTQ2YPRSLUlNUSjOyEwrysxTyC3NKcksSyzKTEzKSVXITSzJSAUSmcnFAL1CEl4&oq=ted+shifr&gs_lcp=Cgdnd3Mtd2l6EAMYAjIFCC4QgAQyBQgAEIAEMgUILhCABDIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjoECCMQJzoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOggIABCABBCxAzoOCC4QgAQQsQMQgwEQ1AI6CAguEIAEELEDOgsILhCABBCxAxDUAjoICC4QgAQQ1AI6BwguEIAEEAo6BwgAEIAEEAo6BAgAEAo6BAguEAo6BwgAELEDEApQAFjNEmDoIWgAcAB4AIAByQGIAYQLkgEFMC44LjGYAQCgAQE&sclient=gws-wiz"
+         }, {
+            "date_added": "13301172094629507",
+            "date_last_used": "0",
+            "guid": "2f7bd629-3336-4a8e-a570-88d9fc8d8860",
+            "id": "210",
+            "name": "high school kid papers",
+            "type": "url",
+            "url": "https://arxiv.org/search/math?query=Liu%2C+Zihao&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+         }, {
+            "date_added": "13301742145945510",
+            "date_last_used": "0",
+            "guid": "28b1bde7-60a6-47fe-807f-1c48d829b89e",
+            "id": "211",
+            "name": "Functional Equations Strategies Book Published",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u738252h2876259p25558116"
+         }, {
+            "date_added": "13301743454926512",
+            "date_last_used": "13331384422030325",
+            "guid": "77264330-aa07-45f0-81ce-03589d832f03",
+            "id": "212",
+            "name": "faraz blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1652391"
+         }, {
+            "date_added": "13301938259896065",
+            "date_last_used": "0",
+            "guid": "86351cf2-5563-42b5-a878-8c7be0b7fcd5",
+            "id": "213",
+            "name": "hn search",
+            "type": "url",
+            "url": "https://hn.algolia.com/?query=%20Aubrey%20de%20Grey&sort=byPopularity&prefix&page=0&dateRange=all&type=story"
+         }, {
+            "date_added": "13301961533578137",
+            "date_last_used": "0",
+            "guid": "7d4cff99-6717-48c1-967c-cf6469ba7b03",
+            "id": "215",
+            "name": "Archive - Tech TLDR;",
+            "type": "url",
+            "url": "https://techtldr.com/"
+         }, {
+            "date_added": "13302014951098954",
+            "date_last_used": "0",
+            "guid": "42224b7f-d0c0-443a-9612-57d5b2d9ee8e",
+            "id": "216",
+            "name": "khina blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c846652"
+         }, {
+            "date_added": "13302014995471483",
+            "date_last_used": "0",
+            "guid": "cb13e265-9340-4589-b347-5f97526b7fdb",
+            "id": "217",
+            "name": "jj_ca888 ",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/user/248366"
+         }, {
+            "date_added": "13302015063660575",
+            "date_last_used": "0",
+            "guid": "e9188b35-f464-4fdf-b217-5017f622ad76",
+            "id": "218",
+            "name": "blog",
+            "type": "url",
+            "url": "https://andwendrew004.blogspot.com/"
+         }, {
+            "date_added": "13302015141117763",
+            "date_last_used": "0",
+            "guid": "ee8d9cf3-392b-46f4-925e-5241d27cbe25",
+            "id": "219",
+            "name": "100 Definite Integrals without Complex Integration",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u381074h2872154p25615020"
+         }, {
+            "date_added": "13302016836335199",
+            "date_last_used": "0",
+            "guid": "e3a37eab-b0d6-4407-93ac-6283dc7671b4",
+            "id": "220",
+            "name": "david yang math - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=david+yang+math&sxsrf=ALiCzsZWYl7dbll_Ln99FENKvx4onc_1-g%3A1657543232767&ei=QBrMYpymLvnLseMPsJ2U6As&ved=0ahUKEwicxtrc7fD4AhX5ZWwGHbAOBb0Q4dUDCA4&uact=5&oq=david+yang+math&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEOgcIABBHELADOgQIABBDOgYIABAeEBZKBAhBGABKBAhGGABQpAFYyAZg1QdoAXABeACAAZsBiAG-BZIBAzAuNZgBAKABAcgBCMABAQ&sclient=gws-wiz"
+         }, {
+            "date_added": "13302040518213539",
+            "date_last_used": "0",
+            "guid": "c50cd67d-8062-4757-b886-532ccfac522b",
+            "id": "222",
+            "name": "i3435 blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1289119"
+         }, {
+            "date_added": "13302352282326244",
+            "date_last_used": "13321709176658008",
+            "guid": "37183e1f-747b-4385-9046-9bda3a6776b5",
+            "id": "223",
+            "name": "jee 2022 top guy",
+            "type": "url",
+            "url": "https://akshatjha.xyz/"
+         }, {
+            "date_added": "13302543561049583",
+            "date_last_used": "0",
+            "guid": "537164d0-314a-4d0c-b461-9bf29a2befc3",
+            "id": "224",
+            "name": "Robitaille.pdf",
+            "type": "url",
+            "url": "https://math.mit.edu/research/highschool/primes/materials/2021/Robitaille.pdf"
+         }, {
+            "date_added": "13302738029395686",
+            "date_last_used": "0",
+            "guid": "28d41340-d65f-4b50-aaf3-8764ba2a9cea",
+            "id": "226",
+            "name": "pythag david yang",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/user/30008"
+         }, {
+            "date_added": "13302739018527572",
+            "date_last_used": "0",
+            "guid": "c86297c0-604f-4a87-b90a-3358d7a72e13",
+            "id": "227",
+            "name": "benkuhn.net",
+            "type": "url",
+            "url": "https://www.benkuhn.net/"
+         }, {
+            "date_added": "13302991953555376",
+            "date_last_used": "0",
+            "guid": "6d3acd8e-ef26-4e36-a289-75f25a1e51f7",
+            "id": "229",
+            "name": "Zed Shaw's Blog",
+            "type": "url",
+            "url": "https://zedshaw.com/"
+         }, {
+            "date_added": "13303195312851552",
+            "date_last_used": "0",
+            "guid": "a341e681-6208-4521-810f-8cc0cf53ff71",
+            "id": "230",
+            "name": "Inside Interesting Integrals - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Inside_Interesting_Integrals/H7ZeBAAAQBAJ?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13303254915336386",
+            "date_last_used": "0",
+            "guid": "5833ab5f-4494-440f-b614-d98a8fc683e1",
+            "id": "231",
+            "name": "Phase Planner Class 12th.pdf",
+            "type": "url",
+            "url": "https://www.fiitjeegurgaon.in/webdocs/phase_planner/Phase%20Planner%20Class%2012th.pdf"
+         }, {
+            "date_added": "13303588769782101",
+            "date_last_used": "0",
+            "guid": "56fbca75-c535-4e7f-be60-03dcc100af3a",
+            "id": "232",
+            "name": "Wolstenholme's blog : sam korsky",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c2825h1054791"
+         }, {
+            "date_added": "13303588931409011",
+            "date_last_used": "13319812519570883",
+            "guid": "b0035188-cde5-438a-b91e-84ee7b163591",
+            "id": "233",
+            "name": "yugrey ryan alweiss",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/user/76247"
+         }, {
+            "date_added": "13303589010914779",
+            "date_last_used": "0",
+            "guid": "a2e39e2d-b136-4f9f-9497-dbc96d0a3380",
+            "id": "234",
+            "name": "imomath articles",
+            "type": "url",
+            "url": "https://imomath.com/index.cgi?page=mathTexts"
+         }, {
+            "date_added": "13303597786110208",
+            "date_last_used": "0",
+            "guid": "484c6c18-dfca-451f-8391-6b4ec8ea87ae",
+            "id": "235",
+            "name": "pftb problems from the book",
+            "type": "url",
+            "url": "http://www.hexagon.edu.vn/images/resources/upload/48f705559d5da29b51bb76fc555d8c3c/problems-from-the-book-1-pdf_1380724174.pdf"
+         }, {
+            "date_added": "13303608820387143",
+            "date_last_used": "0",
+            "guid": "2af206bc-caed-421c-ab97-4796e144bf25",
+            "id": "236",
+            "name": "fiitjee cm test",
+            "type": "url",
+            "url": "https://pdfcoffee.com/cm-1820-monthly-test-1-offline-pdf-free.html"
+         }, {
+            "date_added": "13303648771791789",
+            "date_last_used": "0",
+            "guid": "f898d2c6-4881-4419-a106-cbd59e79b30c",
+            "id": "237",
+            "name": "amc 2023",
+            "type": "url",
+            "url": "https://www.maa.org/math-competitions/international-registrations"
+         }, {
+            "date_added": "13303737240186193",
+            "date_last_used": "0",
+            "guid": "0ddcd86b-5cf6-4b3a-8b45-eb3a5f4beed6",
+            "id": "239",
+            "name": "mersenneforum.org math consecutive numbers in [n] sum to square",
+            "type": "url",
+            "url": "https://www.mersenneforum.org/"
+         }, {
+            "date_added": "13304371612906137",
+            "date_last_used": "0",
+            "guid": "99a1b41d-761c-4458-bad8-873993c89e9b",
+            "id": "241",
+            "name": "some olympiad resource",
+            "type": "url",
+            "url": "https://www.isinj.com/mt-usamo/"
+         }, {
+            "date_added": "13305152896183538",
+            "date_last_used": "13324002235666700",
+            "guid": "c9287189-7383-4332-94c4-1f51f1d45511",
+            "id": "243",
+            "name": "Irrational_Numbers_and_arguments_CBK.pdf",
+            "type": "url",
+            "url": "file:///Users/ravinderbhandari/Downloads/Irrational_Numbers_and_arguments_CBK.pdf"
+         }, {
+            "date_added": "13305643850442769",
+            "date_last_used": "0",
+            "guid": "1bf322ce-108a-4926-9fd2-f5d846f7b232",
+            "id": "245",
+            "name": "discrete math lecture notes",
+            "type": "url",
+            "url": "https://www.academia.edu/34712822/Lecture_Notes_on_Discrete_Mathematics?email_work_card=view-paper"
+         }, {
+            "date_added": "13305643977252057",
+            "date_last_used": "13324002254343256",
+            "guid": "bbf5e7b4-6db3-4598-9f13-9afdf3c81a5d",
+            "id": "246",
+            "name": "Competitive Physics: Thermodynamics, Electromagnetism and Relativity (960 Pages)",
+            "type": "url",
+            "url": "https://www.worldscientific.com/doi/pdf/10.1142/9789813238541_0001"
+         }, {
+            "date_added": "13305644920955849",
+            "date_last_used": "13319812497866552",
+            "guid": "cb8a6e52-d01c-4c5a-b47e-52342465f136",
+            "id": "247",
+            "name": "finite differences, i learnt about this in lucknow, atwu",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1742h1045496"
+         }, {
+            "date_added": "13305853462658572",
+            "date_last_used": "0",
+            "guid": "261ac2d8-92b6-4e59-bd2d-48eb0fbb097a",
+            "id": "248",
+            "name": "feynman physics",
+            "type": "url",
+            "url": "https://www.feynmanlectures.caltech.edu/I_toc.html"
+         }, {
+            "date_added": "13306020841933935",
+            "date_last_used": "0",
+            "guid": "085e2202-5491-4e7b-95d7-41df311fbb6a",
+            "id": "250",
+            "name": "analysis - Difficulty level of Courant's book - Mathematics Stack Exchange",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/79865/difficulty-level-of-courants-book"
+         }, {
+            "date_added": "13306020902333546",
+            "date_last_used": "13325426770913986",
+            "guid": "70f20b10-debf-4f55-a4a1-a75f7bf7cfd2",
+            "id": "251",
+            "name": "Inside Interesting Integrals (Undergraduate Lecture Notes in Physics): Nahin, Paul J.: 9781493912766: Amazon.com: Books",
+            "type": "url",
+            "url": "https://www.amazon.com/dp/1493912763?asin=1493912763&revisionId=&format=4&depth=1"
+         }, {
+            "date_added": "13306020923067991",
+            "date_last_used": "0",
+            "guid": "4e25d813-47e1-46e1-a519-dd2655110b18",
+            "id": "252",
+            "name": "undergraduate education - Extremely \"hard\" books (or handouts) for undergrad studies - Mathematics Educators Stack Exchange",
+            "type": "url",
+            "url": "https://matheducators.stackexchange.com/questions/3950/extremely-hard-books-or-handouts-for-undergrad-studies"
+         }, {
+            "date_added": "13306020925735135",
+            "date_last_used": "0",
+            "guid": "09300416-dbe4-4675-baf8-4b373cb4f877",
+            "id": "253",
+            "name": "Chicago undergraduate mathematics bibliography",
+            "type": "url",
+            "url": "https://www.ocf.berkeley.edu/~abhishek/chicmath.htm#e:calculus"
+         }, {
+            "date_added": "13306020932918966",
+            "date_last_used": "0",
+            "guid": "c6bac20a-e2ab-4562-a6ef-77f0fd52d4bc",
+            "id": "254",
+            "name": "calculus - Great books on all different types of integration techniques - Mathematics Stack Exchange",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/1041720/great-books-on-all-different-types-of-integration-techniques"
+         }, {
+            "date_added": "13306061550004855",
+            "date_last_used": "0",
+            "guid": "a41797d8-ea2d-4ebb-b905-7880d08668d4",
+            "id": "255",
+            "name": "Math 521-522, basic undergraduate analysis (advanced calculus). | Michael Taylor",
+            "type": "url",
+            "url": "https://mtaylor.web.unc.edu/notes/math-521-522-basic-undergraduate-analysis-advanced-calculus/"
+         }, {
+            "date_added": "13306061812807139",
+            "date_last_used": "0",
+            "guid": "b1c4862d-0616-452e-99a8-d382c07e188c",
+            "id": "256",
+            "name": "anal1v.pdf",
+            "type": "url",
+            "url": "https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/anal1v.pdf"
+         }, {
+            "date_added": "13306063641756300",
+            "date_last_used": "13313091451279849",
+            "guid": "fb3b75b2-9b88-45ae-9c91-4c50540c0971",
+            "id": "257",
+            "name": "Calculus - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Calculus/OisInC1zvEMC?hl=en&gbpv=1"
+         }, {
+            "date_added": "13306073652220218",
+            "date_last_used": "0",
+            "guid": "61e79612-b80b-4fbc-b29b-3e65ea90ec25",
+            "id": "258",
+            "name": "blind mathematician",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Lev_Pontryagin"
+         }, {
+            "date_added": "13306074976487340",
+            "date_last_used": "0",
+            "guid": "d38a4738-79d4-49ce-b67e-cfd823c7e1ad",
+            "id": "259",
+            "name": "horners long division method -i learned this in lucknow",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=horners+long+division+method"
+         }, {
+            "date_added": "13306078066959847",
+            "date_last_used": "0",
+            "guid": "bfb3a5f2-7d4c-459c-84b4-178da40855ed",
+            "id": "260",
+            "name": "Interesting problems by pad",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c606046"
+         }, {
+            "date_added": "13306078073260337",
+            "date_last_used": "0",
+            "guid": "7eac99eb-eea6-4a33-a8dc-37ff06acb738",
+            "id": "261",
+            "name": "fitness gram pacer test",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1618217"
+         }, {
+            "date_added": "13306078132815453",
+            "date_last_used": "13311003399424574",
+            "guid": "c52ff758-5fcf-4b0d-819f-54ec0f6038e2",
+            "id": "262",
+            "name": "so i heard : motivation",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1218h992909"
+         }, {
+            "date_added": "13306103099112815",
+            "date_last_used": "0",
+            "guid": "1ebbbddf-ce4a-4dd2-b84d-f1855266f131",
+            "id": "263",
+            "name": "serge lang linear algebra",
+            "type": "url",
+            "url": "http://www.math.nagoya-u.ac.jp/~richard/teaching/f2014/Lin_alg_Lang.pdf"
+         }, {
+            "date_added": "13306151690232510",
+            "date_last_used": "0",
+            "guid": "4d41b6a7-a824-4e7c-9587-235af001653c",
+            "id": "264",
+            "name": "lin alg freidberg errata",
+            "type": "url",
+            "url": "https://math.illinoisstate.edu/linalg/errata.html"
+         }, {
+            "date_added": "13306152171876927",
+            "date_last_used": "0",
+            "guid": "489c50e1-7f0d-4c08-83ac-15fafefd2fac",
+            "id": "265",
+            "name": "lin alg putnam",
+            "type": "url",
+            "url": "http://www.math.utoronto.ca/barbeau/putnamla.pdf"
+         }, {
+            "date_added": "13306152248001137",
+            "date_last_used": "0",
+            "guid": "16438a3f-9e0d-4c05-8af1-89c054ea6c1a",
+            "id": "266",
+            "name": "oly lin alg",
+            "type": "url",
+            "url": "https://yufeizhao.com/olympiad/putnam_linear_algebra.pdf"
+         }, {
+            "date_added": "13306152455104887",
+            "date_last_used": "0",
+            "guid": "e1a3c142-976f-470e-a3c6-6426e5337be4",
+            "id": "267",
+            "name": "Linear Algebra tough(?)",
+            "type": "url",
+            "url": "https://www.math.pku.edu.cn/teachers/anjp/textbook.pdf"
+         }, {
+            "date_added": "13306235327000335",
+            "date_last_used": "0",
+            "guid": "3862c4bb-cbf2-4698-9480-68eb79f71713",
+            "id": "268",
+            "name": "lin alg rorres anton",
+            "type": "url",
+            "url": "https://www.sku.ac.ir/Datafiles/BookLibrary/55/Howard%20Anton,%20Chris%20Rorres%20-%20Elementary%20Linear%20Algebra%20with%20Applications-Wiley%20(2005).pdf"
+         }, {
+            "date_added": "13306409977412314",
+            "date_last_used": "0",
+            "guid": "846849e8-ca3b-4de5-ad56-5444c97d9ebd",
+            "id": "270",
+            "name": "future geo",
+            "type": "url",
+            "url": "https://sites.math.rutgers.edu/~zeilberg/PG/Theorems.html"
+         }, {
+            "date_added": "13306626885749292",
+            "date_last_used": "0",
+            "guid": "4a8326d0-bdc7-4327-a4a3-d2043da1cd1f",
+            "id": "271",
+            "name": "Organic Chemistry clayden",
+            "type": "url",
+            "url": "https://byjusexamprep.com/liveData/f/2021/5/clayden_2nd_ed_text_67.pdf"
+         }, {
+            "date_added": "13306688381012888",
+            "date_last_used": "0",
+            "guid": "2558b834-4f16-468f-923f-17d90dd7d793",
+            "id": "272",
+            "name": "amc 2023",
+            "type": "url",
+            "url": "https://www.maa.org/math-competitions/about-amc/events-calendar"
+         }, {
+            "date_added": "13307100622650838",
+            "date_last_used": "13318727286883443",
+            "guid": "1c7b7c09-8cc6-4a6b-912a-9b50b9c0ce38",
+            "id": "274",
+            "name": "skm sir organic chemistry - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=skm+sir+organic+chemistry"
+         }, {
+            "date_added": "13307362711342781",
+            "date_last_used": "0",
+            "guid": "8b3eadb2-6258-4df5-99e4-675fc0b9f395",
+            "id": "276",
+            "name": "jee material",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1-5TeZmQCBAFi1C5QqLWcnuWCUl_zcmr5"
+         }, {
+            "date_added": "13307467941524330",
+            "date_last_used": "13356462171835927",
+            "guid": "cb9b1002-2458-43d2-8404-dee15d811a3c",
+            "id": "278",
+            "name": "passion is the best",
+            "type": "url",
+            "url": "https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413"
+         }, {
+            "date_added": "13307468182726543",
+            "date_last_used": "0",
+            "guid": "98b55269-8e18-45bf-a14a-5eca078e7cac",
+            "id": "280",
+            "name": "these are cool physics lectures",
+            "type": "url",
+            "url": "https://www.feynmanlectures.caltech.edu/I_26.html"
+         }, {
+            "date_added": "13307559195988217",
+            "date_last_used": "0",
+            "guid": "507d4732-709b-491b-9f0c-2656f1a6b576",
+            "id": "282",
+            "name": "dirichlet theorm; i wanna be able to read this before graduation",
+            "type": "url",
+            "url": "https://arxiv.org/pdf/0808.1408.pdf"
+         }, {
+            "date_added": "13307704056389492",
+            "date_last_used": "13318727298298706",
+            "guid": "d6e6048b-c185-4d93-86af-7bab3ebb6ddc",
+            "id": "283",
+            "name": "anupam gupta sir organic chemistry jee live daily 3.0 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=anupam+gupta+sir+organic+chemistry+jee+live+daily+3.0"
+         }, {
+            "date_added": "13307877286314120",
+            "date_last_used": "0",
+            "guid": "b0992b08-9522-4f8c-9306-7dd6313e3606",
+            "id": "284",
+            "name": "Abstract Linear Algebra",
+            "type": "url",
+            "url": "https://abstractlinearalgebra.quora.com/"
+         }, {
+            "date_added": "13308103642570177",
+            "date_last_used": "0",
+            "guid": "7621158b-3a9f-47c3-86d4-6ea94346c813",
+            "id": "286",
+            "name": "chem notes",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1gNw3gKN7pMhaE6BeRrkEwCgCdTaq5o-l"
+         }, {
+            "date_added": "13308181182437929",
+            "date_last_used": "0",
+            "guid": "ee382324-2d5a-48cf-96aa-af06782bd427",
+            "id": "287",
+            "name": "olympiad algebra trig",
+            "type": "url",
+            "url": "http://www.ms.uky.edu/~sohum/ma330/files/eqns_3.pdf"
+         }, {
+            "date_added": "13308260021457701",
+            "date_last_used": "13380490809368434",
+            "guid": "98d1e2ad-7f1c-4a28-87d7-3eec9ec5c9e6",
+            "id": "289",
+            "name": "sunaina math blog",
+            "type": "url",
+            "url": "https://sunainalovesmath.blogspot.com/"
+         }, {
+            "date_added": "13308333143680573",
+            "date_last_used": "0",
+            "guid": "0a4da21b-557f-420d-8e03-50e103a2b306",
+            "id": "290",
+            "name": "How does it feel to finally be red at TopCoder after years of hard work? - Quora",
+            "type": "url",
+            "url": "https://www.quora.com/How-does-it-feel-to-finally-be-red-at-TopCoder-after-years-of-hard-work"
+         }, {
+            "date_added": "13308490239660295",
+            "date_last_used": "0",
+            "guid": "3fbc1153-6cb0-4e9c-90c1-29e22f2af715",
+            "id": "291",
+            "name": "Nightdrive",
+            "type": "url",
+            "url": "https://incoherency.co.uk/nightdrive/"
+         }, {
+            "date_added": "13308524206726718",
+            "date_last_used": "0",
+            "guid": "26af09d1-3433-4738-96f1-64c82bc1478a",
+            "id": "292",
+            "name": "cool sum technique",
+            "type": "url",
+            "url": "https://www.quora.com/What-is-the-sum-of-1-1-3-2-1-3-3-1-3-n/answer/Roman-Andronov"
+         }, {
+            "date_added": "13308524551341668",
+            "date_last_used": "0",
+            "guid": "fc64d778-aa5f-4b53-9762-7ba25a24d17f",
+            "id": "293",
+            "name": "cool nt stuff i will learn",
+            "type": "url",
+            "url": "https://www.quora.com/Is-Alan-Bakers-A-Concise-Introduction-to-the-Theory-of-Numbers-comprehensive-enough-for-a-rigorous-first-course-in-number-theory-despite-being-only-100-pages-long/answer/Alon-Amit"
+         }, {
+            "date_added": "13308572746849341",
+            "date_last_used": "0",
+            "guid": "288f46b1-b520-428a-856b-06dc15a36131",
+            "id": "294",
+            "name": "differential equations simmons, 2021 lucknow suggestion",
+            "type": "url",
+            "url": "https://caisatech.net/uploads/120220%20Differential%20equations.pdf"
+         }, {
+            "date_added": "13308611515160732",
+            "date_last_used": "0",
+            "guid": "a7bb7add-7256-4679-94a2-aa3ed5cfcd99",
+            "id": "295",
+            "name": "canada handouts",
+            "type": "url",
+            "url": "https://sites.google.com/site/imocanada/2022-winter-camp"
+         }, {
+            "date_added": "13308611798428430",
+            "date_last_used": "0",
+            "guid": "4da25721-97b1-4724-82aa-78bd3ef0d3f0",
+            "id": "296",
+            "name": "learn lin alg for imo",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1w18-Fr3Ng4KBneRSeigrBbOWxkmKsS6f/view"
+         }, {
+            "date_added": "13308622893010569",
+            "date_last_used": "0",
+            "guid": "a0ed84ed-28ae-435b-8d8c-488337bf2ba5",
+            "id": "297",
+            "name": "rg advice",
+            "type": "url",
+            "url": "https://rgtdfg.blogspot.com/2022/02/recommendations-feb-22-version.html"
+         }, {
+            "date_added": "13308623721293683",
+            "date_last_used": "0",
+            "guid": "6564cf7d-0338-451e-b5a8-13f88fb1e55a",
+            "id": "298",
+            "name": "rg handouts",
+            "type": "url",
+            "url": "https://rgtdfg.blogspot.com/p/handouts.html"
+         }, {
+            "date_added": "13308768252168964",
+            "date_last_used": "0",
+            "guid": "8916134a-1afb-438f-9016-fa20a964070c",
+            "id": "300",
+            "name": "finite differences",
+            "type": "url",
+            "url": "https://www.quora.com/How-do-I-prove-the-following-equality-about-factorial-n-sum_-i-0-n-binom-n-i-1-i-n-i-+-1-n"
+         }, {
+            "date_added": "13308808118546651",
+            "date_last_used": "0",
+            "guid": "9d964976-efcb-4660-9470-d02862d60b6a",
+            "id": "302",
+            "name": "david altizion handouts, alg",
+            "type": "url",
+            "url": "https://www.andrew.cmu.edu/user/daltizio/mathstuff.html"
+         }, {
+            "date_added": "13308808276608926",
+            "date_last_used": "0",
+            "guid": "b910480a-a59a-4acc-ab56-f96663f86886",
+            "id": "303",
+            "name": "interesting binomila method",
+            "type": "url",
+            "url": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1581&context=hmc_fac_pub"
+         }, {
+            "date_added": "13308808512296204",
+            "date_last_used": "0",
+            "guid": "cf607355-05a1-4d6d-9e46-c73c6b1dd90c",
+            "id": "304",
+            "name": "Inversive Geometry",
+            "type": "url",
+            "url": "https://inversivegeometry.quora.com/"
+         }, {
+            "date_added": "13308957008430060",
+            "date_last_used": "0",
+            "guid": "e1cf7f11-cef2-4fed-b1a0-1250bf0e0a73",
+            "id": "306",
+            "name": "berkeley-problems-in-mathematics.pdf",
+            "type": "url",
+            "url": "https://ravuthleang12.files.wordpress.com/2013/08/berkeley-problems-in-mathematics.pdf"
+         }, {
+            "date_added": "13309138799365973",
+            "date_last_used": "0",
+            "guid": "da9fc794-abfb-423b-9e54-7bc0b250db69",
+            "id": "308",
+            "name": "Number Theory - Google Books",
+            "type": "url",
+            "url": "https://www.google.co.in/books/edition/Number_Theory/Mlt2O1rR9xIC?hl=en&gbpv=1&printsec=frontcover"
+         }, {
+            "date_added": "13309351035589485",
+            "date_last_used": "13319811286467988",
+            "guid": "89c1bc91-9fe4-4bc8-909d-c55949190a40",
+            "id": "310",
+            "name": "physics monster blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c819767"
+         }, {
+            "date_added": "13309351051688786",
+            "date_last_used": "0",
+            "guid": "5fd7b9f5-f0e9-4439-82e8-5e79f3024eb0",
+            "id": "311",
+            "name": "Arhaan's Blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1082020"
+         }, {
+            "date_added": "13309401276323458",
+            "date_last_used": "13317589016493696",
+            "guid": "234cdb5a-6eb7-4f1d-8dfd-18889edd2839",
+            "id": "313",
+            "name": "Length (/Trig) Bashing Handout; tons of more cool stuff within this handout",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u222649h2905374p25903772"
+         }, {
+            "date_added": "13309401495924067",
+            "date_last_used": "0",
+            "guid": "3e52ba8b-e03f-45f0-9b02-e428bf8d15f1",
+            "id": "314",
+            "name": "utkarsh blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c2771"
+         }, {
+            "date_added": "13309621888987902",
+            "date_last_used": "0",
+            "guid": "d893862e-9cfb-480d-90f0-99b0cd4129cd",
+            "id": "316",
+            "name": "cool combo technique, match order",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h1113187p5083554"
+         }, {
+            "date_added": "13309634646357422",
+            "date_last_used": "0",
+            "guid": "528cc73c-bc19-4775-b27b-3f2e6ec372ee",
+            "id": "318",
+            "name": "roots of unity filter",
+            "type": "url",
+            "url": "https://www.quora.com/What-is-the-value-of-sum_-n-0-infty-binom-34-4n"
+         }, {
+            "date_added": "13310480518093263",
+            "date_last_used": "0",
+            "guid": "ea6830c8-71e7-4293-aeb9-5800c21181cc",
+            "id": "320",
+            "name": "Arithmetic Game – Online Speed Drill",
+            "type": "url",
+            "url": "https://arithmetic.zetamac.com/"
+         }, {
+            "date_added": "13310520515085033",
+            "date_last_used": "0",
+            "guid": "a851fc49-6346-415f-9579-edb014df5eab",
+            "id": "321",
+            "name": "olympiad_graph_theory.pdf",
+            "type": "url",
+            "url": "https://dgrozev.files.wordpress.com/2022/08/olympiad_graph_theory.pdf"
+         }, {
+            "date_added": "13310736824732310",
+            "date_last_used": "0",
+            "guid": "bdee7d03-6476-4575-ad09-8d278cfca3e2",
+            "id": "322",
+            "name": "The Online Math Club Blog",
+            "type": "url",
+            "url": "https://www.omath.club/"
+         }, {
+            "date_added": "13310813497885964",
+            "date_last_used": "0",
+            "guid": "10e830e0-d3df-44a3-9b8d-5c7e12148820",
+            "id": "323",
+            "name": "IOQM 2022-2023 Open Mock Test",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c260h2944964_ioqm_20222023_open_mock_test"
+         }, {
+            "date_added": "13311042578314159",
+            "date_last_used": "0",
+            "guid": "7462a05d-3961-4dc2-a0e7-a96f5de6c4f0",
+            "id": "325",
+            "name": "Practice Algebra | Brilliant",
+            "type": "url",
+            "url": "https://brilliant.org/algebra/"
+         }, {
+            "date_added": "13311042695089110",
+            "date_last_used": "0",
+            "guid": "101eb85c-997d-49c2-af4e-9abafa40738e",
+            "id": "326",
+            "name": "AIME Math Contest Preparation | Brilliant Math & Science Wiki",
+            "type": "url",
+            "url": "https://brilliant.org/wiki/aime-math-contest-preparation/"
+         }, {
+            "date_added": "13311292910864339",
+            "date_last_used": "0",
+            "guid": "cde17c96-4f4b-4b7b-ba44-48319b765094",
+            "id": "328",
+            "name": "inversion",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h1864636_circles_with_altitude_feet"
+         }, {
+            "date_added": "13312300334021261",
+            "date_last_used": "0",
+            "guid": "2d5089d1-7aa3-4f4f-be6d-2ab5047ee3a4",
+            "id": "334",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "tough combinatorics problem",
+            "type": "url",
+            "url": "https://www.quora.com/Given-a-regular-50-gon-with-7-black-and-7-white-vertices-prove-that-there-must-be-a-pair-of-black-vertices-the-same-distance-apart-as-some-pair-of-white-vertices-How-do-you-prove-that/answer/Peter-Ash-9"
+         }, {
+            "date_added": "13314000587873530",
+            "date_last_used": "0",
+            "guid": "06a128cc-d3aa-4262-a2d3-99f37d6edc68",
+            "id": "335",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "RMOAspirantFaraz User Profile",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/user/556716"
+         }, {
+            "date_added": "13314052904751659",
+            "date_last_used": "0",
+            "guid": "fc4df158-18d7-411f-b597-e4333746b61c",
+            "id": "336",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Group Theory For All",
+            "type": "url",
+            "url": "https://grouptheoryforall.quora.com/"
+         }, {
+            "date_added": "13314067153287475",
+            "date_last_used": "0",
+            "guid": "9a9b9644-64ef-45f0-b6f5-69b74fdc7483",
+            "id": "337",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "inspirational person",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/user/535027"
+         }, {
+            "date_added": "13314658197926020",
+            "date_last_used": "0",
+            "guid": "c14cb0c4-a9a4-4983-8d03-ce8847d05d79",
+            "id": "338",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13315308154972559",
+            "date_last_used": "0",
+            "guid": "3a1bae56-3822-4a29-873e-c155d6f9bf01",
+            "id": "340",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "douglas west gt",
+            "type": "url",
+            "url": "https://athena.nitc.ac.in/summerschool/Files/West.pdf"
+         }, {
+            "date_added": "13315357437133638",
+            "date_last_used": "0",
+            "guid": "5d8342f4-fa15-40e6-a5b2-fb731b755044",
+            "id": "342",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "mixtillinear incircles",
+            "type": "url",
+            "url": "https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2020-02/mr_2_2020_mixtilinear.pdf"
+         }, {
+            "date_added": "13315613575868792",
+            "date_last_used": "0",
+            "guid": "ac5e140e-b10c-424f-af27-f1b44cf0e56f",
+            "id": "344",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "India at IMO 2022",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c260t1295764f260h2843580_india_at_imo_2022"
+         }, {
+            "date_added": "13315614410429243",
+            "date_last_used": "0",
+            "guid": "204929de-e609-4205-ad64-a25af3d3b482",
+            "id": "345",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Inequality Handout",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h2450483p20401414"
+         }, {
+            "date_added": "13315832008447816",
+            "date_last_used": "13317135722348078",
+            "guid": "72795bd0-51a3-4297-b692-0c64d8da13b3",
+            "id": "347",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "aditya khurmi blog, combo also",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c768174"
+         }, {
+            "date_added": "13316800571572548",
+            "date_last_used": "13328032097026463",
+            "guid": "63e8ed61-4087-4aee-b717-882bcf42ea88",
+            "id": "349",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Basics_of_Organic_Chemistry_b_PAARAS_THAKUR_@LIVEDAILYJEE.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1FHM37YHvPf2kLGM1J8bGfNPPbx3yvSj8/view"
+         }, {
+            "date_added": "13317040318688447",
+            "date_last_used": "13317040580100778",
+            "guid": "e719aab7-7b42-4577-a48b-5349528162b8",
+            "id": "350",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "homothety trick for tangent circles",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h523072p16264463"
+         }, {
+            "date_added": "13317086562034258",
+            "date_last_used": "0",
+            "guid": "82207285-d8cf-461b-b36f-3e4bfccfd137",
+            "id": "352",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Amount of work for future math (PLEASE HELP)",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h619416p3697136"
+         }, {
+            "date_added": "13317305848623170",
+            "date_last_used": "13317589479516201",
+            "guid": "2ce9a8c4-2dee-4b41-b3c8-554ca1bdfa14",
+            "id": "354",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ratio lemma",
+            "type": "url",
+            "url": "https://cdn.artofproblemsolving.com/attachments/2/b/cfc6469f8aa90eee54549e421c5080108bd189.pdf"
+         }, {
+            "date_added": "13317324295599885",
+            "date_last_used": "13317588892255542",
+            "guid": "cc65ba2d-e1d1-44d2-ae5f-2814e1225290",
+            "id": "355",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "linearity of pop and some more things",
+            "type": "url",
+            "url": "https://cdn.artofproblemsolving.com/attachments/d/6/23f8c5d5b5d6ffae3ec6af45ef6746ac94d575.pdf"
+         }, {
+            "date_added": "13317324448356760",
+            "date_last_used": "13317588919096838",
+            "guid": "e80c130f-87fa-4a5f-88bc-70dcf4a93eae",
+            "id": "356",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Linearity of Power of a Point",
+            "type": "url",
+            "url": "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxrZW5ueXBlbmdtYXRofGd4OjU1ZWZmY2E0NGE4ODVkMjM"
+         }, {
+            "date_added": "13317324579719017",
+            "date_last_used": "0",
+            "guid": "615e0ee4-6969-4937-aa69-6ad80032193d",
+            "id": "357",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "linearity of epxectation",
+            "type": "url",
+            "url": "https://cdn.artofproblemsolving.com/attachments/2/0/9a2c92ccaad41b431ce848c380223f26611a28.pdf"
+         }, {
+            "date_added": "13317331824621059",
+            "date_last_used": "13331384380147147",
+            "guid": "360b1092-3768-4061-a23c-0db5b942541d",
+            "id": "358",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Algorithms by Jeff Erickson",
+            "type": "url",
+            "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/"
+         }, {
+            "date_added": "13317332308065619",
+            "date_last_used": "0",
+            "guid": "1b756eb7-93d4-4a69-980b-8849709688b3",
+            "id": "359",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ioi hard working kid",
+            "type": "url",
+            "url": "https://codeforces.com/blog/entry/69100"
+         }, {
+            "date_added": "13317475397081531",
+            "date_last_used": "13331384385261567",
+            "guid": "ebd9c63b-488e-4175-8b0a-a38c1378d90d",
+            "id": "360",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "it does take lots of hardwork",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h2625883p23570767"
+         }, {
+            "date_added": "13317579385930385",
+            "date_last_used": "13319810846239801",
+            "guid": "1c1fa7d8-8d4c-4f08-80a8-f718a06d2412",
+            "id": "362",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "oly geo is fun",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1289119h2347848"
+         }, {
+            "date_added": "13317580252025710",
+            "date_last_used": "13319811004435463",
+            "guid": "e76e2240-2b5c-4667-94cd-d424823efb94",
+            "id": "364",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "math_pi_rate User Profile",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/user/414304"
+         }, {
+            "date_added": "13317588795796880",
+            "date_last_used": "13323648875130859",
+            "guid": "dc3cf691-fcdf-485b-83e8-7793e145d61e",
+            "id": "365",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Length (/Trig) Bashing Handout",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/q1h2905374p25903772"
+         }, {
+            "date_added": "13317659385470282",
+            "date_last_used": "0",
+            "guid": "782d7152-8cce-4b20-94ff-63576dd99a96",
+            "id": "366",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "1998 inversion handwritten",
+            "type": "url",
+            "url": "https://cdn.artofproblemsolving.com/attachments/9/3/ab11554a24816536b7e90d933299e5496b7644.pdf"
+         }, {
+            "date_added": "13317852759649040",
+            "date_last_used": "13325971634563361",
+            "guid": "f76aa0ff-42ec-43ea-a39a-09852d3f97f5",
+            "id": "368",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PHYSICS approach to geo problem",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h2991992_nice_problem"
+         }, {
+            "date_added": "13318729743789215",
+            "date_last_used": "13349301205091769",
+            "guid": "121ca58a-d92f-48e1-ba64-b0d6da81e548",
+            "id": "370",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "chemistry_chapter_weightage_jee_main_2022_v2.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1Btm3jkFVXOZtOGzrlUNo3fmjG2fdzo_w/view"
+         }, {
+            "date_added": "13318729746719705",
+            "date_last_used": "13349301199185885",
+            "guid": "8129efe3-2a39-4cd8-9510-a4097e9c62ac",
+            "id": "371",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "physics_chapter_weightage_jee_main_2022.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1dy24VulnslpmMd3G4zV2i2jpjc5fmDdW/view"
+         }, {
+            "date_added": "13318729751403612",
+            "date_last_used": "13346722719630122",
+            "guid": "6d2a3dec-2225-4589-a521-4cbff81a67aa",
+            "id": "372",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "mathematics_chapter_weightage_jee_main_2022.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1vh_DLPwCNBbdHAtfVaZwQXy6j5UtFlly/view"
+         }, {
+            "date_added": "13318734421046514",
+            "date_last_used": "13325352247256906",
+            "guid": "349159aa-ce53-4fef-9db9-56ab66811307",
+            "id": "373",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "jee mains syllabus",
+            "type": "url",
+            "url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2022/12/2022121630.pdf"
+         }, {
+            "date_added": "13318814089440578",
+            "date_last_used": "13336196063450825",
+            "guid": "335e29d2-e9d4-4bdc-9ca0-8ef7f441a615",
+            "id": "374",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "evan chen didnt think he could solve this",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h418983p3518149"
+         }, {
+            "date_added": "13319813544374951",
+            "date_last_used": "0",
+            "guid": "27ec6e3c-3d1f-48aa-8179-8014341de85e",
+            "id": "376",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "aops29 blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c946900h1911664_properties_of_the_sharkydevil_point"
+         }, {
+            "date_added": "13319813648495324",
+            "date_last_used": "13320533294937006",
+            "guid": "b6116d0b-fcee-495d-862c-44d82d384035",
+            "id": "377",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Magic of Hogwarts",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c776104"
+         }, {
+            "date_added": "13319882133508770",
+            "date_last_used": "0",
+            "guid": "299a1939-9710-4018-9049-f0adb199f287",
+            "id": "378",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "cool calculus",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/4624973/conjecture-the-sequence-frac2n-sum-i-1n-sqrt-fracni-frac12"
+         }, {
+            "date_added": "13319882398724855",
+            "date_last_used": "0",
+            "guid": "b50972d0-bba0-4465-ae4c-c7416c2008c4",
+            "id": "379",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "cool nt",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/4626903/set-of-primes-dividing-2n3n"
+         }, {
+            "date_added": "13319935159969689",
+            "date_last_used": "13331384214429817",
+            "guid": "22fb8aa9-97f7-4d31-8672-96326ef501b8",
+            "id": "380",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "projective",
+            "type": "url",
+            "url": "http://mat.msgsu.edu.tr/~dpierce/Notes/Geometry/Projective/geometries-2019.pdf"
+         }, {
+            "date_added": "13320063772302788",
+            "date_last_used": "13331384283047933",
+            "guid": "040175cd-9a0e-4d1e-ae2e-4c2376f630f3",
+            "id": "382",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "complex.pdf",
+            "type": "url",
+            "url": "http://yisun.io/notes/complex.pdf"
+         }, {
+            "date_added": "13331024254873406",
+            "date_last_used": "0",
+            "guid": "746149e4-45db-495d-8c01-96a31b0138cf",
+            "id": "411",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "C++ Getting Started",
+            "type": "url",
+            "url": "https://www.w3schools.com/cpp/cpp_getstarted.asp"
+         }, {
+            "date_added": "13320574395380303",
+            "date_last_used": "13321709450300391",
+            "guid": "616a581f-83b9-400b-b930-169e4f6756a9",
+            "id": "383",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Just math : My Last INMO",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c989506h2528178"
+         }, {
+            "date_added": "13321375007036049",
+            "date_last_used": "0",
+            "guid": "35e12545-f8c5-4792-9a65-f80c84bf2ace",
+            "id": "385",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Turtle Math : What exactly is the determinant, anyway?",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c2532359h2726190"
+         }, {
+            "date_added": "13321389994344446",
+            "date_last_used": "0",
+            "guid": "4f45424a-f9b4-4d6c-9fbc-66292447e063",
+            "id": "386",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GOC by SKM Sir full playlist - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLYPej93aiB99D8QApjot_IDqQkXcy0ZR8"
+         }, {
+            "date_added": "13321409011795488",
+            "date_last_used": "13321410317219885",
+            "guid": "ed8aeae9-3ddb-4cee-8d53-061babf5a6cd",
+            "id": "387",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "this guy won gold",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h210796p1161500"
+         }, {
+            "date_added": "13321410426190240",
+            "date_last_used": "0",
+            "guid": "0530e019-c1e4-4da3-939d-afd2e43a1bc9",
+            "id": "388",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "math excalibur",
+            "type": "url",
+            "url": "https://www.math.hkust.edu.hk/excalibur/"
+         }, {
+            "date_added": "13321478147808494",
+            "date_last_used": "0",
+            "guid": "0e86f691-f598-48cb-b681-71dd8f26425b",
+            "id": "389",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "construction geo",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h2885602"
+         }, {
+            "date_added": "13321823069939519",
+            "date_last_used": "0",
+            "guid": "42ca0304-2498-44a7-9d2c-ba7f0ba78f43",
+            "id": "390",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "graph problem",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u485327h1480703p26987231"
+         }, {
+            "date_added": "13322004631348744",
+            "date_last_used": "0",
+            "guid": "b06bcabc-5513-4132-85e3-b90d1eb243b0",
+            "id": "391",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "obtuse angle , prove angle more than 90",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h3022497_incircle_and_obtuse_angle__indonesian_tst_imo_2023_stage_1"
+         }, {
+            "date_added": "13322007383409095",
+            "date_last_used": "13323879659972395",
+            "guid": "d83b24a5-912c-478f-8e35-0b7ee0808c9b",
+            "id": "392",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Class Notes",
+            "type": "url",
+            "url": "http://web.stanford.edu/~lindrew/notes.html"
+         }, {
+            "date_added": "13323720759969560",
+            "date_last_used": "0",
+            "guid": "78efee74-c04c-43b9-a10d-0e4adcf5682a",
+            "id": "394",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Missed...Again and Again",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u333162h2144065p15765790"
+         }, {
+            "date_added": "13326553156157029",
+            "date_last_used": "0",
+            "guid": "1f3f92f1-b77e-45da-8576-e9d685edd1c3",
+            "id": "396",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "reference request - What is a good book to study linear algebra? - Mathematics Stack Exchange",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/160056/what-is-a-good-book-to-study-linear-algebra"
+         }, {
+            "date_added": "13326627955888435",
+            "date_last_used": "0",
+            "guid": "928f373f-dc4d-4d53-99d3-14c22fc6327e",
+            "id": "397",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "gen funcs canbankan book",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/u734204h3051434p27493789"
+         }, {
+            "date_added": "13327084840414810",
+            "date_last_used": "13380490746821987",
+            "guid": "61967be3-3952-4044-89e1-4c70d663394d",
+            "id": "399",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "great blog",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c1224872h3060651"
+         }, {
+            "date_added": "13327269894111300",
+            "date_last_used": "0",
+            "guid": "5b9378b9-a2db-4821-bfcf-eded8153140d",
+            "id": "401",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Integration marathon (JEE Level)",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c260h2244092"
+         }, {
+            "date_added": "13328016680892150",
+            "date_last_used": "13335182407956441",
+            "guid": "6ccab63f-8f90-456c-bbc8-64d4ef01d9e8",
+            "id": "403",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JEE (Advanced) 2021 - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/folders/1mm-Cw-WAfGpgrnt7yfyr0xQC50jGbMeo"
+         }, {
+            "date_added": "13328101513155979",
+            "date_last_used": "13328470882595713",
+            "guid": "6bdec64a-65fc-4a90-99f7-fba4892450c4",
+            "id": "405",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "bb2c1d65c7c924115bab3e3b1e2017ad9dc4af.pdf",
+            "type": "url",
+            "url": "https://cdn.artofproblemsolving.com/attachments/0/f/bb2c1d65c7c924115bab3e3b1e2017ad9dc4af.pdf"
+         }, {
+            "date_added": "13329045100898342",
+            "date_last_used": "0",
+            "guid": "f687226e-0e72-4b79-9dec-d2e62d7bc7ab",
+            "id": "407",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IMO 23 TEAMS",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c5h3074923_imo_23_teams"
+         }, {
+            "date_added": "13329734281382269",
+            "date_last_used": "13329735308105610",
+            "guid": "c4e19b2a-0616-43a4-8029-1968704419f4",
+            "id": "409",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Block NCERT Reactions by EKNOOR SINGH.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1MLwiq3hbMjW2f77WWKnESBHfcvF299Uu/view"
+         }, {
+            "date_added": "13332714835480517",
+            "date_last_used": "0",
+            "guid": "2f7573c3-05d7-4f3c-bc45-d3f506206763",
+            "id": "413",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "cool lemma fe",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h2399644p19686093"
+         }, {
+            "date_added": "13334417550045426",
+            "date_last_used": "0",
+            "guid": "580cb75a-571a-4638-9fa7-d40700e4c610",
+            "id": "415",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "length of OI",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h3116089_length_of_oi"
+         }, {
+            "date_added": "13334613602796054",
+            "date_last_used": "0",
+            "guid": "412beb66-d322-43aa-b24f-f823a399ecfc",
+            "id": "417",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "\"impossible problem\"",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h3058727_lowest_maintenance_cost_in_a_city"
+         }, {
+            "date_added": "13334861567761679",
+            "date_last_used": "0",
+            "guid": "bcd748ca-a9ea-44b6-9726-9c47b57e1fdc",
+            "id": "418",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mixtilinear First edition - Dogu - Paramizo Dicrominique - Dsoong - 2023 .pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1vA_90gg5stzvH1Q-Muv2RSkQJUkMW2WM/view"
+         }, {
+            "date_added": "13335728095170776",
+            "date_last_used": "0",
+            "guid": "d34c3567-2a01-4612-be82-74e79c8b58ff",
+            "id": "420",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "pqr method",
+            "type": "url",
+            "url": "https://cdn.artofproblemsolving.com/attachments/b/e/00b091685f76f6e6cf56358d0f56aa10e76dca.pdf"
+         }, {
+            "date_added": "13335895118810065",
+            "date_last_used": "0",
+            "guid": "9d0dc910-009f-4f58-a9c0-511451e96058",
+            "id": "421",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "prob. integration brilliant",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/4748959/if-x-y-and-z-are-random-numbers-between-0-and-1-what-is-the-probability"
+         }, {
+            "date_added": "13335905849876332",
+            "date_last_used": "13337861659088554",
+            "guid": "88183689-3644-4e12-be3e-8bde697cb4b8",
+            "id": "422",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "arml",
+            "type": "url",
+            "url": "https://www.arml2.com/arml_2019/public_contest_files/2019_contest_file/2019_Contest_Final_Version.pdf"
+         }, {
+            "date_added": "13336195072224957",
+            "date_last_used": "0",
+            "guid": "af7915da-276a-449c-9ae4-d364e0df4261",
+            "id": "423",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ellipse mixtillinear",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h3118552_known_mixtilinear_point_property_with_a_twist"
+         }, {
+            "date_added": "13336247990848572",
+            "date_last_used": "13336937109462082",
+            "guid": "1e5f6e41-3290-4839-bd71-6220b12625bf",
+            "id": "425",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "take this mock ioqm",
+            "type": "url",
+            "url": "http://online.imtcontest.org/"
+         }, {
+            "date_added": "13336771946078649",
+            "date_last_used": "13338141419777916",
+            "guid": "14a0b97f-2ac1-4432-93ea-fb2cbfcd0cf9",
+            "id": "427",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Partition (number theory) - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Partition_(number_theory)#:~:text=Restricted%20part%20size%20or%20number%20of%20parts,-Main%20article%3A%20Triangle&text=with%20initial%20values%20p0,k%20are%20not%20both%20zero.&text=and%20the%20number%20of%20partitions,%2B%203)2%20%2F%2012."
+         }, {
+            "date_added": "13337200856775766",
+            "date_last_used": "0",
+            "guid": "941c782c-b3f0-4e1e-893f-159cd2a30521",
+            "id": "428",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "nice contest",
+            "type": "url",
+            "url": "https://cdn.artofproblemsolving.com/attachments/d/6/4bc703587a7845987ee4814121de90fa3e2bf2.pdf"
+         }, {
+            "date_added": "13337200862976170",
+            "date_last_used": "0",
+            "guid": "64d5d91f-6602-4f47-b306-7ff2fbf5b634",
+            "id": "429",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "nice solutions",
+            "type": "url",
+            "url": "https://cdn.artofproblemsolving.com/attachments/a/e/cb6588ecda42f076688bb66d55a7debdcbead3.pdf"
+         }, {
+            "date_added": "13337201016219776",
+            "date_last_used": "0",
+            "guid": "a29a897d-68d6-4b87-8af2-d0b6d2e322c5",
+            "id": "430",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "4th Annual CMC",
+            "type": "url",
+            "url": "http://cmc.ericshen.net/CMC-2021/"
+         }, {
+            "date_added": "13340650812017655",
+            "date_last_used": "0",
+            "guid": "abb9e257-b0e8-40a3-8a37-e2ba13c82df8",
+            "id": "432",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Introduction-to-classical-mechanics-with-problems-and-solutions-David-Morin.pdf",
+            "type": "url",
+            "url": "https://handoutset.com/wp-content/uploads/2022/07/Introduction-to-classical-mechanics-with-problems-and-solutions-David-Morin.pdf"
+         }, {
+            "date_added": "13349301617004070",
+            "date_last_used": "0",
+            "guid": "0b63ea35-e665-4a54-8a05-3f06d301b295",
+            "id": "434",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JEE Main | Most Detailed Analysis | You wont find it anywhere | MathonGo | Anup Sir - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=H5ngjiRCEDw"
+         }, {
+            "date_added": "13349302010007244",
+            "date_last_used": "13359473184304699",
+            "guid": "c2e54178-892e-4641-bcfd-d89c5ac71de8",
+            "id": "435",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "all the way up",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1_-3UlCCF1oqcVi56KyJcAKjDuRKZyXhi/view"
+         }, {
+            "date_added": "13349302126635252",
+            "date_last_used": "13349491291458479",
+            "guid": "bde48a7e-68c3-41d0-a12c-47e420986795",
+            "id": "436",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JEE Main 2024 Reduced Syllabus | Comparison with 2023 | Know in Depth | Anup Sir - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=K__N7oCcjts"
+         }, {
+            "date_added": "13349492260549940",
+            "date_last_used": "0",
+            "guid": "4efce7dc-18b6-4e10-bbed-1e941a0c27b9",
+            "id": "438",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Smallest-circle problem - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Smallest-circle_problem"
+         }, {
+            "date_added": "13349492264017054",
+            "date_last_used": "0",
+            "guid": "16987026-04b8-483d-a1f3-85ab67e1d5e2",
+            "id": "439",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Smallest Enclosing Circle Problem",
+            "type": "url",
+            "url": "https://www.personal.kent.edu/%7Ermuhamma/Compgeometry/MyCG/CG-Applets/Center/centercli.htm"
+         }, {
+            "date_added": "13364559751091333",
+            "date_last_used": "0",
+            "guid": "36b90251-4eb5-46d9-8658-d25287e4dfc7",
+            "id": "441",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "real numbers - How many steps are needed to turn one \"a\" into at least 100,000 \"a\"s using only the three functions of \"select all\", \"copy\" and \"paste\"? - Mathematics Stack Exchange",
+            "type": "url",
+            "url": "https://math.stackexchange.com/questions/4939319/how-many-steps-are-needed-to-turn-one-a-into-at-least-100-000-as-using-only"
+         }, {
+            "date_added": "13364658493453507",
+            "date_last_used": "0",
+            "guid": "c5a96e4a-1d67-44c6-b282-3ccd1f3ea0c1",
+            "id": "442",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sorry it's combo",
+            "type": "url",
+            "url": "https://artofproblemsolving.com/community/c6h2625882_sorry_its_combo"
+         }, {
+            "date_added": "13364658689036636",
+            "date_last_used": "0",
+            "guid": "7ffcf432-ebd3-4429-b35c-a4ee29c92c3c",
+            "id": "443",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "co.combinatorics - How decreasing can a bijection $f:\\mathbb{N}\\to\\mathbb{N}$ be? - MathOverflow",
+            "type": "url",
+            "url": "https://mathoverflow.net/questions/473210/how-decreasing-can-a-bijection-f-mathbbn-to-mathbbn-be"
+         }, {
+            "date_added": "13364659440851934",
+            "date_last_used": "0",
+            "guid": "f367fd4d-cabf-47a5-901e-1b3957df1517",
+            "id": "444",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ag.algebraic geometry - Question about the sum of odd powers equation - MathOverflow",
+            "type": "url",
+            "url": "https://mathoverflow.net/questions/473148/question-about-the-sum-of-odd-powers-equation"
+         }, {
+            "date_added": "13364659560780052",
+            "date_last_used": "0",
+            "guid": "e399d145-48d4-4231-b36e-77fd87407a06",
+            "id": "445",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "nt.number theory - Can four integer numbers $x$, $y$, $x-y$, $x+y$ be powerful numbers where $\\gcd(x,y)=1$? - MathOverflow",
+            "type": "url",
+            "url": "https://mathoverflow.net/questions/474367/can-four-integer-numbers-x-y-x-y-xy-be-powerful-numbers-where-gcd"
+         } ],
+         "date_added": "13168593467062279",
+         "date_last_used": "0",
+         "date_modified": "13364659560780052",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13168593467062290",
+         "date_last_used": "0",
+         "date_modified": "13349301617004070",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13124380931325682",
+            "date_last_used": "0",
+            "guid": "374d83de-c3c7-4e25-891f-b82278177e15",
+            "id": "7",
+            "name": "https://law.resource.org/pub/in/bis/irc/irc.gov.in.015.2011.pdf",
+            "type": "url",
+            "url": "https://law.resource.org/pub/in/bis/irc/irc.gov.in.015.2011.pdf"
+         } ],
+         "date_added": "13168593467062292",
+         "date_last_used": "0",
+         "date_modified": "13124380931325682",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

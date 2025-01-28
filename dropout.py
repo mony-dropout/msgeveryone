@@ -1,15 +1,13 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-import time
-driver=webdriver.Chrome()
-driver.get("https://google.com")
-print(driver.title)
-
-x=driver.find_element(By.ID,"APjFqb")
-x.send_keys("mony")
-time.sleep(0.5)
-driver.execute_script("arguments[0].value=arguments[0].value+ 'All the way up 😈' ;",x)
-x.send_keys(Keys.RETURN)
-input("hi")
-driver.quit()
+import pandas as pd
+df=pd.read_csv("testing.csv")
+df=df.astype(str)
+for i,r in df.iterrows():
+    n=r['name']
+    p=r['phone']
+    fname=n.split()[0]
+    print(f"{fname}")
+    print(f"{n}")
+    print(f"{p}")
+    df.loc[i,'strings']=True
+df.to_csv("billions.csv",index=False)
+    
