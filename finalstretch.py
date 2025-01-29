@@ -24,23 +24,41 @@ driver.get("https://web.whatsapp.com")
 input("press enter when you're ready")
 time.sleep(6)
 #########################################################################################################################
-fullname="Mony Kuku Number"
-firstname=fullname.split()[0]
-secondname=fullname.split()[1]
-phone="9569035187"
-pyperclip.copy("😈")
-search_box=driver.find_element(By.XPATH,'//*[@id="side"]/div[1]/div/div[2]/div[2]/div/div/p')
-search_box.send_keys(f"{phone}")
+try: 
+    
+    fullname="Mony Kuku Number"
+    firstname=fullname.split()[0]
+    secondname=fullname.split()[1]
+    phonenum="9569035187"
+    pyperclip.copy("😈")
 
+    search_box=driver.find_element(By.XPATH,'//*[@id="side"]/div[1]/div/div[2]/div[2]/div/div/p')
+    search_box.send_keys(f"{phonenum}")
+    
 
-contact=driver.find_elements(By.XPATH, f"//span[contains(text(), '{firstname}') and contains(@title, '{firstname}') and @style='min-height: 0px;']")
-contact[0].click()
-text_box=WebDriverWait(driver,3).until(
-    EC.visibility_of_element_located((By.XPATH,'//*[@id="main"]/footer/div[1]/div/span/div/div[2]/div[1]/div[2]/div[1]/p'))
-)
-text_box.send_keys(f"we can do anything {secondname}, work, just work, make the little kid with big dreams proud ")
-text_box.send_keys(Keys.COMMAND+'v')
-text_box.send_keys(Keys.RETURN)
+    time.sleep(1)
+
+    #contact=driver.find_elements(By.XPATH, f"//span[contains(text(), '{firstname}') and contains(@title, '{firstname}') and @style='min-height: 0px;']")
+    contact =driver.find_elements(By.XPATH,f"//span[contains(text(),'{firstname}') and contains(@title,'{firstname}') and @style='min-height: 0px;']")
+    contact[0].click()  # Always click the first matching result
+
+    #contact[0].click()
+    text_box=WebDriverWait(driver,3).until(
+        EC.visibility_of_element_located((By.XPATH,'//*[@id="main"]/footer/div[1]/div/span/div/div[2]/div[1]/div[2]/div[1]/p'))
+    )
+    text_box.send_keys(f"we can do anything {secondname}, work, just work, make the little kid with big dreams proud ")
+    text_box.send_keys(Keys.COMMAND+'v')
+    embut=driver.find_element(By.CSS_SELECTOR,'button[aria-label="Expressions picker"]')
+    embut.click()
+    happyemo=WebDriverWait(driver,3).until(
+        EC.visibility_of_element_located((By.XPATH,"//span[@id='3' and @class='b85 emojik apple']"))
+    )
+    happyemo.click()
+    time.sleep(0.2)
+
+    text_box.send_keys(Keys.RETURN)
+except Exception:
+    print("just have fun")
 
 print("keep going, this is what you chose")
 time.sleep(6)
