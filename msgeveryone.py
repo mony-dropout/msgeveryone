@@ -102,6 +102,12 @@ df.to_csv("atwu.csv")
 time.sleep(6)
 driver.quit()
 
+#we can do anything mony, this was our first ever project
+#this is just the start of a wonderful journey bruh, you can do anything
+#just enjoy life and every single day just do your best, just work as hard as possible every single day, just get better every single day, that is it
+#have fun and remember that youre living your dream ;)
+#all the way up
+
 
 
 
